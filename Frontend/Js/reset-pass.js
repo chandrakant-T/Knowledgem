@@ -26,7 +26,7 @@ document.getElementById("resetForm").addEventListener("submit", async (e) => {
 
   try {
     const res = await fetch(
-      `http://localhost:3000/api/auth/reset-password/${token}`,
+      `https://knowledgem.onrender.com/api/auth/reset-password/${token}`,
       {
         method: "POST",
         headers: {

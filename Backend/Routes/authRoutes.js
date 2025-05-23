@@ -98,7 +98,7 @@ router.post("/forgot-password", async (req, res) => {
       expiresIn: "15m",
     });
 
-    const resetLink = `http://localhost:3000/reset-password?token=${resetToken}`;
+    const resetLink = `https://knowledgem.onrender.com/reset-password?token=${resetToken}`;
     const mailOptions = {
       from: process.env.EMAIL,
       to: email,

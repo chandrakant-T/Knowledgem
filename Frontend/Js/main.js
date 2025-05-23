@@ -53,7 +53,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
       try {
         const res = await fetch(
-          "http://localhost:3000/api/auth/forgot-password",
+          "https://knowledgem.onrender.com/api/auth/forgot-password",
           {
             method: "POST",
             headers: { "Content-Type": "application/json" },
@@ -85,7 +85,7 @@ document.addEventListener("DOMContentLoaded", () => {
     const password = document.querySelector("#login-password").value.trim();
     const rememberMe = document.getElementById("remember").checked;
 
-    const res = await fetch("http://localhost:3000/api/auth/login", {
+    const res = await fetch("https://knowledgem.onrender.com/api/auth/login", {
       method: "POST",
       headers: { "Content-Type": "application/json" },
       body: JSON.stringify({ email, password }),
@@ -130,7 +130,7 @@ document.addEventListener("DOMContentLoaded", () => {
         return;
       }
 
-      const res = await fetch("http://localhost:3000/api/auth/register", {
+      const res = await fetch("https://knowledgem.onrender.com/api/auth/register", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ name, email, password }),
