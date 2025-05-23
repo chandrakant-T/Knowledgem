@@ -1,0 +1,21 @@
+{
+    "name": "mocktest-platform",
+    "version": "1.0.0",
+    "description": "Mock Test Platform for Multiple Exams (JEE, UPSC, SSC, NEET, GATE, CAT)",
+    "main": "server.js",
+    "scripts": {
+        "start": "node Backend/Server/server.js",
+        "dev": "nodemon Backend/Server/server.js"
+    },
+    "dependencies": {
+        "body-parser": "^2.2.0",
+        "express": "^5.1.0",
+        "mongoose": "^8.14.2",
+        "socket.io": "^4.5.1"
+    },
+    "devDependencies": {
+        "nodemon": "^3.1.10"
+    },
+    "author": "Chandrakant Trivedi",
+    "license": "MIT"
+}

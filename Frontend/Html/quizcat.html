@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>HomePage</title>
+    <link rel="stylesheet" href="../Css/Home.css" />
+    <link rel="stylesheet" href="../Css/Utility.css" />
+    <link rel="stylesheet" href="../Css/MediaQueries.css" />
+  </head>
+  <body id="Home">
+    <!-- Main Page -->
+    <header
+      class="flex align-center justify-space-btn pleft-2 pright-2 m-2 br-1 fixed"
+    >
+      <h1>Knowledgem</h1>
+      <button id="menubtn" title="menubtn">
+        <img src="../images/Main-Assets/menu.png" alt="Hamburger" />
+      </button>
+      <div id="menu">
+        <ul id="navigation" class="flex g-2 list-none">
+          <li><a href="https://discord.gg/MbRm5UMr">Community</a></li>
+          <li><a href="../Html/courses.html">Courses</a></li>
+          <li><a href="../Html/quizcat.html">Quizes</a></li>
+          <li>
+            <a href="../Html/login.html" id="logoutbtn" title="Logout"
+              >Logout</a
+            >
+          </li>
+        </ul>
+      </div>
+      <button id="userprofile" title="profile" class="profiles">
+        My Profile
+      </button>
+      <section id="userDetails" class="hidden g-2">
+        <h3>Your Information</h3>
+        <p><strong>Name:</strong> <span id="userNameDisplay"></span></p>
+        <p><strong>Email:</strong> <span id="userEmail"></span></p>
+      </section>
+    </header>
+
+    <main class="mleft-2 mright-2 flex1 justify-center p-2 br-1">
+      <h2>Welcome, <span id="username"></span>!</h2>
+      <div id="courses-category" class="grid row-g-15 col-g-15">
+        <div class="card">
+          <h2>Cyber Security</h2>
+
+          <button
+            type="button"
+            title="View Category"
+            data-category="Cybersecurity"
+            class="showmorebtn course"
+          >
+            Take Quiz
+          </button>
+        </div>
+
+        <div class="card">
+          <h2>Artificial Intelligence</h2>
+
+          <button
+            type="button"
+            title="View Category"
+            data-category="Artificial Intelligence"
+            class="showmorebtn course"
+          >
+            Take Quiz
+          </button>
+        </div>
+
+        <div class="card">
+          <h2>Robotics</h2>
+
+          <button
+            type="button"
+            title="View Category"
+            data-category="Robotics"
+            class="showmorebtn course"
+          >
+            Take Quiz
+          </button>
+        </div>
+
+        <div class="card">
+          <h2>Ethical Hacking</h2>
+
+          <button
+            type="button"
+            title="View Category"
+            data-category="Ethical Hacking"
+            class="showmorebtn course"
+          >
+            Take Quiz
+          </button>
+        </div>
+
+        <div class="card">
+          <h2>Machine Learning</h2>
+
+          <button
+            type="button"
+            title="View Category"
+            data-category="Machine Learning"
+            class="showmorebtn course"
+          >
+            Take Quiz
+          </button>
+        </div>
+      </div>
+    </main>
+
+    <footer class="mleft-2 mright-2 flex dir-col align-center p-2 br-1 mtop-2">
+      <div id="footer" class="br-1 justify-space-btn grid">
+        <section class="content p-1 m-1" id="content1">
+          <h2>Contact Us</h2>
+          <p>
+            Email:
+            <a href="mailto:trivedichandrakant559@gmail.com"
+              >trivedichandrakant559@gmail.com</a
+            >
+          </p>
+          <p>Phone: <a href="tel:+919321061639">+91 9321061639</a></p>
+          <p>
+            Address:
+            <a href="https://www.chitkarauniversity.edu.in/"
+              >Chitkara university
+            </a>
+          </p>
+        </section>
+        <section class="content p-1 m-1">
+          <div class="feedback-form">
+            <h2>Have a Question?</h2>
+            <form
+              action="https://formspree.io/f/xldbjwgp"
+              method="post"
+              class="flex dir-col row-g-1"
+            >
+              <input type="text" name="name" placeholder="Your Name" required />
+              <input
+                type="email"
+                name="email"
+                placeholder="Your Email"
+                required
+              />
+              <textarea
+                name="message"
+                rows="3"
+                placeholder="Type your question..."
+                required
+                class="ptop5"
+              ></textarea>
+              <button type="submit">Submit</button>
+            </form>
+          </div>
+        </section>
+      </div>
+      <div id="socialmedia">
+        <h2>Follow Us</h2>
+        <div id="socialaccounts">
+          <a href="https://www.linkedin.com/in/chandrakant-trivedi/"
+            >LinkedIn</a
+          >
+          |
+          <a href="https://github.com/chandrakant-T">GitHub</a>
+        </div>
+      </div>
+      <p class="mtop-2">
+        All embedded videos are sourced from publicly available educational
+        platforms such as NPTEL and youtube lectures. Proper credit is given to
+        the original instructors and institutions.
+      </p>
+      <div class="footer-bottom mtop-1">
+        <p>&copy; 2025 Knowledgem. All rights reserved.</p>
+      </div>
+    </footer>
+    <script src="../Js/quizcat.js"></script>
+  </body>
+</html>

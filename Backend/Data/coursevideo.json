@@ -1,0 +1,4173 @@
+{
+  "Ethical Hacking": {
+    "Week 1": [
+      {
+        "title": "Ethical Hacking - Overview",
+        "url": "https://www.youtube.com/embed/kpM4GopdXm0?si=RuAdyUuTplpgNvpP",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Introduction to Ethical Hacking",
+        "url": "https://www.youtube.com/embed/eoo7MlOlyBc?si=VZO_86wai-6gmwXo",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Basic Concept of Networking(Part 1)",
+        "url": "https://www.youtube.com/embed/-iShap4w4S8?si=pHRdq4MrswttQwWC",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Basic Concept of Networking(Part 2)",
+        "url": "https://www.youtube.com/embed/jp0JdeeFUG0?si=kyVjKiEiBqAbRyXt",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "TCP/IP Protocol Stack(Part 1)",
+        "url": "https://www.youtube.com/embed/EsJVCGefqnY?si=DK77dnuz_1Oq-dk8",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL"
+      },
+      {
+        "title": "TCP/IP Protocol Stack(Part 2)",
+        "url": "https://www.youtube.com/embed/atVnsf6PhO0?si=HIA_ET6x-iZzUq0z",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 2": [
+      {
+        "title": "IP addressing and routing(Part 1)",
+        "url": "https://www.youtube.com/embed/IlRAeNleWUQ?si=NDSMbofkgTyDtSQI",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "IP addressing and routing(Part 2)",
+        "url": "https://www.youtube.com/embed/GF0cAU5p6KU?si=xxc_JldAMjqgaxH6",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "TCP and UDP (Part 1)",
+        "url": "https://www.youtube.com/embed/0RFYDNG6IU4?si=ybQW5EAJwzT1MdOy",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "TCP and UDP (Part 2)",
+        "url": "https://www.youtube.com/embed/EACepSXJx98?si=96oAXDdALw8lbyXf",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "IP subnetting",
+        "url": "https://www.youtube.com/embed/-q8B75e9LOg?si=HheN9LWnTu9Ch3C5",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 3": [
+      {
+        "title": "Routing protocols (Part 1)",
+        "url": "https://www.youtube.com/embed/zxToIFJFkMw?si=PgfbysBudhaS6e9m",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Routing protocols (Part 2)",
+        "url": "https://www.youtube.com/embed/hiEeGehQs3g?si=cyPsJPYJU5yXMDSW",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Routing protocols (Part 3)",
+        "url": "https://www.youtube.com/embed/_XWiJpLE4OM?si=W0ewSpbkJEsgHinU",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "IP version 6",
+        "url": "https://www.youtube.com/embed/hy7Cqlbozys?si=rMRcgl7K7MOyr9b2",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Routing examples",
+        "url": "https://www.youtube.com/embed/F9ZsWdmXn0Q?si=3puZnP0ywwiCS5Ml",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 4": [
+      {
+        "title": "Software Installation and Network Setup",
+        "url": "https://www.youtube.com/embed/DGypxv-B6a8?si=eODaoNj38P4ohPTb",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Information Gathering (Part 1)",
+        "url": "https://www.youtube.com/embed/mLVwpiR4dG4?si=3zAr8lwPOUI-GEHm",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Information Gathering (Part 2)",
+        "url": "https://www.youtube.com/embed/ceYilP94O5Q?si=7i9HpgZPxtBKaWcg",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Port Scanning Using NMAP",
+        "url": "https://www.youtube.com/embed/2rcgZmigxrs?si=vHhFRXIzPI8Yiddt",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Other Features of NMAP",
+        "url": "https://www.youtube.com/embed/LMy9DqWY0qg?si=-5qmgO8cX1UGrsdQ",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 5": [
+      {
+        "title": "Vulnerability Scanning using NMAP",
+        "url": "https://www.youtube.com/embed/T2FYc4BpLYc?si=Wub8tR22VzVCQnBm",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Security Scanning and Proxy Preparation",
+        "url": "https://www.youtube.com/embed/8YwIA-hbcOg?si=UC2lHn4f2UQKpeSR",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "System Hacking",
+        "url": "https://www.youtube.com/embed/ZSRygmqsrLY?si=2geMA-GRB8_Uu8oC",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Malware, Trojans, Virus and Worms",
+        "url": "https://www.youtube.com/embed/XMGElJMecck?si=5QSPgCZVIhmBLdW-",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Miscellaneous Attacks",
+        "url": "https://www.youtube.com/embed/cAmb12emWrs?si=Es1MKzZoFuUXbPq3",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 6": [
+      {
+        "title": "Basic concepts of cryptography",
+        "url": "https://www.youtube.com/embed/O44EQCGZFUA?si=S8by3XozOHhJopbJ",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Private-key cryptography (Part 1)",
+        "url": "https://www.youtube.com/embed/XATa6FppLhA?si=PHEm0uDKtcm34XnA",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Private-key cryptography (Part 2)",
+        "url": "https://www.youtube.com/embed/o0GEPmHm87k?si=S7f2zO32o37jOZVl",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Public-key cryptography (Part 1)",
+        "url": "https://www.youtube.com/embed/_kdwbXWsFgo?si=GsFlRRLmbVvS8o9s",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Public-key cryptography (Part 2)",
+        "url": "https://www.youtube.com/embed/scKGmB-I-pA?si=C1H5ZiPMQqDQwXoc",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 7": [
+      {
+        "title": "Cryptographic hash functions (Part 1)",
+        "url": "https://www.youtube.com/embed/DVpo78P1sOY?si=M-4k8wTxNbNNfURB",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Cryptographic hash functions (Part 2)",
+        "url": "https://www.youtube.com/embed/wRqJ9uvkR2s?si=NBh3zeyEGTa2XXec",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Digital signature and certificate",
+        "url": "https://www.youtube.com/embed/_FFHjz8di0w?si=Hm_TofaUz7qAzGjM",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Applications (Part 1)",
+        "url": "https://www.youtube.com/embed/jScv-KV8qhM?si=l7ln8Sd9ZXp1eeOB",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Applications (Part 2)",
+        "url": "https://www.youtube.com/embed/3wiomVEvvKM?si=u7V8SnWSBWwa1ja3",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 8": [
+      {
+        "title": "Steganography",
+        "url": "https://www.youtube.com/embed/VTs9gXi5Is8?si=8-VjVx_z192WYecm",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Biometrics",
+        "url": "https://www.youtube.com/embed/ecfE3ZhUnKw?si=3Sy4rvUe9bX6oXNO",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Network Based Attacks (Part 1)",
+        "url": "https://www.youtube.com/embed/9o_6HLKetwM?si=skykgOpoPXIokzLY",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Network Based Attacks (Part 2)",
+        "url": "https://www.youtube.com/embed/8v3HF_xNbRI?si=nrgqhJxl9ejve1vP",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "DNS and Email Security",
+        "url": "https://www.youtube.com/embed/MMNYbHvO4CM?si=E1Uitgw9Ztcly4RX",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 9": [
+      {
+        "title": "Packet Sniffing (Part 1)",
+        "url": "https://www.youtube.com/embed/Vm6YfAaVZ24?si=VygI9MKXfL4j3wwo",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Packet Sniffing (Part 2)",
+        "url": "https://www.youtube.com/embed/6RditfqD2rI?si=PZL8MK7KpW5wSQN2",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Packet Sniffing (Part 3)",
+        "url": "https://www.youtube.com/embed/fOxCZlParjc?si=zSutG-oE9jNuMAAT",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Social Engineering Attack",
+        "url": "https://www.youtube.com/embed/sa1qEK0Mrrk?si=kKF08dAqKUvFWFo3",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Denial of Service Attack",
+        "url": "https://www.youtube.com/embed/2VmQ3Zb4I2I?si=TLLySPhcgiPJbPi-",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 10": [
+      {
+        "title": "Elements of Hardware Security",
+        "url": "https://www.youtube.com/embed/6VmIZYN7Jlg?si=PJZ98K0VqiuXhQwy",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Side Channel Attacks (Part 1)",
+        "url": "https://www.youtube.com/embed/bmnZaZhdAIg?si=-Cu-MO7re6DjUIy4",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Side Channel Attacks (Part 2)",
+        "url": "https://www.youtube.com/embed/UhEOC3RRBhw?si=UpRekAVgeXJHYaL3",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Physical Unclonable Function",
+        "url": "https://www.youtube.com/embed/waPLRl43vVw?si=DFFCRKpR4ziPfGA4",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Hardware Trojan",
+        "url": "https://www.youtube.com/embed/Fu3eWo-w5YE?si=V3LTeXhYmce-RtlL",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 11": [
+      {
+        "title": "Metasploit Framework",
+        "url": "https://www.youtube.com/embed/Lu-0CyPQcno?si=ypMsqoj6FYJ1jsGA",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Attack Demonstrations using Metasploit",
+        "url": "https://www.youtube.com/embed/sbw3o6yEpsg?si=zWC3q6g8Cx9KdUO-",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Webserver Vulnerability and Attacks",
+        "url": "https://www.youtube.com/embed/ISqEoGMEjMk?si=jVeLEtl96A3iB3E7",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "SQL Injection Error Based from Web Application",
+        "url": "https://www.youtube.com/embed/NUwRzMNVdJs?si=YGgBWbFs6S3pHx21",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "SQLMAP",
+        "url": "https://www.youtube.com/embed/rSwrdn_Ec_g?si=tTEqbYwOTMDikoEN",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "SQL MAP",
+        "url": "https://www.youtube.com/embed/e2ckbpSfZzw?si=q9y9e1df_k32LqRU",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Cross Site Scripting",
+        "url": "https://www.youtube.com/embed/NpKTC73N3wo?si=QgSaNrhZrVjtksHo",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 12": [
+      {
+        "title": "The NMAP Tool: A Relook (Part 1)",
+        "url": "https://www.youtube.com/embed/xpTSqX2H--c?si=t8J9hmSthl6NhMf3",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "The NMAP Tool: A Relook (Part 2)",
+        "url": "https://www.youtube.com/embed/XXhmUOyapo4?si=4AqYXV66kw-9AN-h",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "The NMAP Tool: A Relook (Part 3)",
+        "url": "https://www.youtube.com/embed/3Zmh7Wc1HXY?si=JYuTWMF-f7qwatEE",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Network Analysis using Wireshark",
+        "url": "https://www.youtube.com/embed/55Fa6VILRGI?si=OTu4FIv9xAAkjQ6g",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Summarization of the Course",
+        "url": "https://www.youtube.com/embed/xq0F80B7V28?si=y9Z3eZ98DCLURFFu",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Live Session",
+        "url": "https://www.youtube.com/embed/a1xQq60EtJc?si=essUkcw7QvlNR3En",
+        "credits": "Video by Prof. Indranil Sengupta, IIT Kharagpur – via NPTEL",
+        "instructor": "Prof. Indranil Sengupta",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      }
+    ]
+  },
+
+  "Artificial Intelligence": {
+    "Module 1: Introduction": [
+      {
+        "title": "Introduction",
+        "url": "https://www.youtube.com/embed/K9gH7hBAdpo?si=SZ2o3A4z7kTW5WV6",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "History of AI from 40s-90s",
+        "url": "https://www.youtube.com/embed/HF_ncSeCMmA?si=0RVlZMS_cH4DaTu3",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "History of AI in the 90s",
+        "url": "https://www.youtube.com/embed/P74Sa1GvPd4?si=jGjAs7Idx_Bo6WuA",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "History of AI in NASA and DARPA(2000s)",
+        "url": "https://www.youtube.com/embed/sSMoNwbYLq4?si=4wVbtffNKJZw7OPA",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "The Present State of AI",
+        "url": "https://www.youtube.com/embed/Pa7LYG8BnJo?si=qKTM0YlUBpOkXCG4",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Definition of AI Dictionary Meaning",
+        "url": "https://www.youtube.com/embed/sNpME1MTiKg?si=y1TrorcB5fynaG0T",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Definition of AI Thinking Vs Acting and Humanly Vs Rationally",
+        "url": "https://www.youtube.com/embed/ZqfCqOpr2Ds?si=SPbz4nPZmRtGZGRl",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Definition of AI Rational Agent View of AI",
+        "url": "https://www.youtube.com/embed/dVxpNCG2X4E?si=TfzROWVB8dEYnKPo",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Examples Tasks, Phases of AI and Course Plan",
+        "url": "https://www.youtube.com/embed/J9R2KDh_9wM?si=T1ehpCVqF1E-FezY",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      }
+    ],
+    "Module 2: Uniform Search": [
+      {
+        "title": "Uniform Search: Notion of a State",
+        "url": "https://www.youtube.com/embed/sUNz_-YUPfw?si=B9zs0GnhevhZWX59",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Uniform Search: Search Problem and Examples",
+        "url": "https://www.youtube.com/embed/aTy9niABXSo?si=28aJS6p2UPhJVNJS",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Uniform Search: Basic Search Strategies",
+        "url": "https://www.youtube.com/embed/54yuKV9U7yc?si=ctSmmkXlW9W5EBH5",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Uniform Search: Iterative Deepening DFS",
+        "url": "https://www.youtube.com/embed/1v5ixVQ5D7c?si=Bm5Bc0onIRW2rZVc",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Uniform Search: Bidirectional Search",
+        "url": "https://www.youtube.com/embed/POFCgzWwR-Y?si=huVSnfCB3iqfdRLc",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      }
+    ],
+    "Module 3: Informed Search": [
+      {
+        "title": "Informed Search: Best First Search",
+        "url": "https://www.youtube.com/embed/MnUGa8IP6Jw?si=EOEJDFa3yq21IVzU",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Informed Search: Greedy Best First Search and A* Search",
+        "url": "https://www.youtube.com/embed/N_h5HOnqMCA?si=zwH0QOCNR8ARFI4e",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Informed Search: Analysis A* Search",
+        "url": "https://www.youtube.com/embed/KRjKKml4AbQ?si=6ILLFPWGm4dpAMIl",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Informed Search: Proof of optimality of A*",
+        "url": "https://www.youtube.com/embed/iAZCDlzf-QM?si=ELOIUwBf3sGs8fF0",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Informed Search: Iterative Deepening A* and Depth First Branch and Bound",
+        "url": "https://www.youtube.com/embed/eB7H1JqR41g?si=43uKCRmVUmhNVmDm",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Informed Search: Admissible Heuristics and Domain Relaxation",
+        "url": "https://www.youtube.com/embed/TaP9-xFdlnI?si=rNBgEmOH78sWKw7q",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Informed Search: Pattern Database Heuristics",
+        "url": "https://www.youtube.com/embed/Y8Kz5jfzWls?si=7OtcydUGWS1Xmj8z",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      }
+    ],
+    "Module 4: Local Search": [
+      {
+        "title": "Local Search: Satisfaction Vs Optimization",
+        "url": "https://www.youtube.com/embed/Bwa6TKAspY4?si=8OWxexCBWIog7d9w",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Local Search: The Example of N-Queens",
+        "url": "https://www.youtube.com/embed/tCaYz8fmlpE?si=8dlhJEeB7OpnW-oN",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Local Search: Hill Climbing",
+        "url": "https://www.youtube.com/embed/gwcq1Kn7F6g?si=6r25mYvQZ7pK1LuT",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Local Search: Drawbacks of Hill Climbing",
+        "url": "https://www.youtube.com/embed/y9c2a1ORd-E?si=hDkN3r7K-cDi5pjz",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Local Search: Hill Climbing With random Walk and Random Restart",
+        "url": "https://www.youtube.com/embed/66y70MhetSw?si=4ShJGH3ntEe46TWI",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Local Search: Hill Climbing With Simulated Anealing",
+        "url": "https://www.youtube.com/embed/KPj-emuUbVI?si=2BM_4asT51OA2tqY",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Local Search: Local Beam Search and Genetic Algorithms",
+        "url": "https://www.youtube.com/embed/ZdVL5k_Jkbg?si=qhdG0M-SIKnS2d2D",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      }
+    ],
+    "Module 5: Adversarial Search": [
+      {
+        "title": "Adversarial Search: Minimax Algorithm For Two Player Games",
+        "url": "https://www.youtube.com/embed/xXCszgfPN6Y?si=oFIzMpf4pykE6tzC",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Adversarial Search: An Example of Minimax Search",
+        "url": "https://www.youtube.com/embed/pR7wCJgTmA4?si=YI4WVp2uOsqZ9O4E",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Adversarial Search: Alpha Beta Pruning",
+        "url": "https://www.youtube.com/embed/OP-lkZo6fDY?si=TYR8qqBbA6A9nLRh",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Adversarial Search: Analysis of Alpha Beta Pruning",
+        "url": "https://www.youtube.com/embed/y6UrY2vpKTU?si=0wpo5HSLrGBxTQQz",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Adversarial Search: Analysis of Alpha Beta Pruning(contd...)",
+        "url": "https://www.youtube.com/embed/dTM1QXnxtGE?si=dH1J4oOaDQ3tsPdL",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Adversarial Search: Horizon Effect,Game Databases and other Ideas",
+        "url": "https://www.youtube.com/embed/QRCk3le7oTc?si=ktRvuQXS7p1Tw_GW",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Adversarial Search: Summary and Other Games",
+        "url": "https://www.youtube.com/embed/8XCUiaorlEY?si=p35w1U0RX8FupQWi",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      }
+    ],
+    "Module 6: Constraint Satisfaction": [
+      {
+        "title": "Constraint Satisfaction Problems: Representation of the atomic state",
+        "url": "https://www.youtube.com/embed/valnUNAYWSk?si=B56LI-uVsv3HaOl4",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Constraint Satisfaction Problems: Map coloring and other examples of csp",
+        "url": "https://www.youtube.com/embed/RD9tUlJRLjA?si=ce9E3UAM8R8k_X4W",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Constraint Satisfaction Problems: Backtracking Search",
+        "url": "https://www.youtube.com/embed/zD4rSyWmBCw?si=NC1oI1tvp6044Rfl",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Constraint Satisfaction Problems: Variable and Value Ordering In Backtracking Search",
+        "url": "https://www.youtube.com/embed/xYRDEw59eIM?si=6h0AIDxKrlQhXJCv",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Constraint Satisfaction Problems: Inference for detecting failures early",
+        "url": "https://www.youtube.com/embed/GSNrDCnhe7w?si=chS81-tKgZmigkAq",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Constraint Satisfaction Problems: Exploiting problem structure",
+        "url": "https://www.youtube.com/embed/yRIC7pAd3Gc?si=EAsPv_GFqUG8t5vE",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      }
+    ],
+    "Module 7: Logic in AI": [
+      {
+        "title": "Logic in AI: Different Knowledge Representation systems",
+        "url": "https://www.youtube.com/embed/QQwBLv9LarI?si=kTZbYcSYsa1sS_lg",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Logic in AI: Syntax",
+        "url": "https://www.youtube.com/embed/BHJ7IJHcLAE?si=tixQwepuBSbkMyyV",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Logic in AI: Semantics",
+        "url": "https://www.youtube.com/embed/mqRqiZ3uQRQ?si=RBw4tSKwmDZB--Ri",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Logic in AI: Forward Chaining",
+        "url": "https://www.youtube.com/embed/CAsq7hm3sbI?si=bgbpF_rvVEYnVEY6",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Logic in AI: Resolution",
+        "url": "https://www.youtube.com/embed/stE_TdS1dh0?si=s10aXNnr1j0yJKEt",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Logic in AI: Reduction to Satisfiability Problems",
+        "url": "https://www.youtube.com/embed/euqzxTnKDt4?si=lR4teY854FXzmljW",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Logic in AI: SAT Solvers: DPLL Algorithm",
+        "url": "https://www.youtube.com/embed/xFpndTg7ZqA?si=641DVNN9cw4Ij5nF",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Logic in AI: SAT Solvers: WalkSAT Algorithm",
+        "url": "https://www.youtube.com/embed/z_JRErOYDso?si=8tZYN0HcLTGvMgM2",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      }
+    ],
+    "Module 8: Uncertainty in AI and Bayesian Network": [
+      {
+        "title": "Uncertainty in AI : Motivation",
+        "url": "https://www.youtube.com/embed/5MaV5Zs-WC0?si=7HXkrhT1CfaA_VhD",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Uncertainty in AI : Basics of Probability",
+        "url": "https://www.youtube.com/embed/oKs9NK563ys?si=fFfEh8LKVVzQQmaU",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Uncertainty in AI : Conditional Independence and Bayes Rule",
+        "url": "https://www.youtube.com/embed/0DFlQWZR9-M?si=aYMg5OAbG9O_327b",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Bayesian Networks: Syntax",
+        "url": "https://www.youtube.com/embed/h1qXycuuDqY?si=7ezdMYd7-aLBN9JL",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Bayesian Networks: Factoriziation",
+        "url": "https://www.youtube.com/embed/y2wf0h8eLB8?si=1yuZ-yyY8pN7KDkR",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Bayesian Networks: Conditional Independences and d-Separation",
+        "url": "https://www.youtube.com/embed/c_y3faxUrMY?si=1-WGpys1XgN-NcGz",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Bayesian Networks: Inference using Variable Elimination",
+        "url": "https://www.youtube.com/embed/dkeUDOzoC30?si=Qh_i85E43-wBOcVA",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Bayesian Networks: Reducing 3-SAT to Bayes Net",
+        "url": "https://www.youtube.com/embed/5mB9C77HavY?si=tg1to68eItFeODXB",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      }
+    ],
+    "Module 9: Bayesian Network": [
+      {
+        "title": "Bayesian Networks: Rejection Sampling",
+        "url": "https://www.youtube.com/embed/VU3p-7y7REs?si=C6_wXrmHGK_dpyY3",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Bayesian Networks: Likelihood Weighting",
+        "url": "https://www.youtube.com/embed/cpP66Ga44ng?si=_nSqYMdhH5lijYBx",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Bayesian Networks: MCMC with Gibbs Sampling",
+        "url": "https://www.youtube.com/embed/dZoHsVO4F3k?si=cS94BlEDEf2DIWAy",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Bayesian Networks: Maximum Likelihood Learning",
+        "url": "https://www.youtube.com/embed/13wkyu5c-s4?si=iKqydmXOdh9mpD_Y",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Bayesian Networks: Maximum a-Posteriori LearningÂ ",
+        "url": "https://www.youtube.com/embed/tr1jxgKbNuw?si=8COORP18uqRZJ5rm",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Bayesian Networks: Bayesian Learning",
+        "url": "https://www.youtube.com/embed/hgXu-Nqy0v4?si=BahZmmg-MSGJ0Lp5",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Bayesian Networks: Structure Learning and Expectation Maximization",
+        "url": "https://www.youtube.com/embed/3-qjNObPEO4?si=9wPWhg88uGO3Wbo8",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Agents and Environments",
+        "url": "https://www.youtube.com/embed/ACL2-h9UNsw?si=172Cf1NQINnlHgzC",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      }
+    ],
+    "Module 10: Decision Theory": [
+      {
+        "title": "Decision Theory: Steps in Decision Theory",
+        "url": "https://www.youtube.com/embed/v3ou7b0zyRA?si=I-tBWFZJtpJPsOFS",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Decision Theory:  Non Deterministic Uncertainty",
+        "url": "https://www.youtube.com/embed/u58czzXLxIo?si=LxTkqLs4BsElusnw",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Probabilistic Uncertainty & Value of perfect information",
+        "url": "https://www.youtube.com/embed/eCUm03eGUG0?si=BSyI2V8yhdlCGox_",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Expected Utility vs Expected Value",
+        "url": "https://www.youtube.com/embed/j4EPSUBXytk?si=nQ7dflwMk6pu_QDl",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Markov Decision Processes: Definition",
+        "url": "https://www.youtube.com/embed/Vawx8vfwC3E?si=EXBA3FWR_o7RMl2j",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Markov Decision Processes: An example of a Policy",
+        "url": "https://www.youtube.com/embed/jJgP1MIZU_4?si=Zi0U5HIF3wmi7wob",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Markov Decision Processes: Policy Evaluation using system of linear equations",
+        "url": "https://www.youtube.com/embed/n2b9oIY5ez0?si=PHRXpoMW88jeCHgX",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Markov Decision Processes: Iterative Policy Evaluation",
+        "url": "https://www.youtube.com/embed/jxNnmFrXh-c?si=r3EbviIoNRUEWP4x",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Markov Decision Processes: Value Iteration",
+        "url": "https://www.youtube.com/embed/FJhn53kTzT0?si=x-nzCbPXsQF-6vVz",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Markov Decision Processes: Policy Iteration and Applications & Extensions of MDPs",
+        "url": "https://www.youtube.com/embed/SoqwVqoXoSA?si=a_yPEMmALEdPW4Wu",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      }
+    ],
+    "Module 11: Reinforcement Learning": [
+      {
+        "title": "Reinforcement Learning: Background",
+        "url": "https://www.youtube.com/embed/SCrKLxQX6Z0?si=LHfQoBu7AySbCOl0",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Reinforcement Learning: Model-based Learning for policy evaluation (Passive Learning)",
+        "url": "https://www.youtube.com/embed/6oGhG6vcFRo?si=WLsdneXPmND0pW7t",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Reinforcement Learning: Model-free Learning for policy evaluation (Passive Learning)",
+        "url": "https://www.youtube.com/embed/kj0dMaWFE70?si=betGhEeB0C-gQLdr",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Reinforcement Learning: TD Learning",
+        "url": "https://www.youtube.com/embed/ppkVs9VnqW4?si=gD_KujmU0quxfyiV",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Reinforcement Learning: TD Learning and Computational Neuroscience",
+        "url": "https://www.youtube.com/embed/8rsZI9XK1aI?si=7nu3pm3gBrwwt8Cv",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Reinforcement Learning: Q Learning",
+        "url": "https://www.youtube.com/embed/ooPIo-1Kh_U?si=N_Wd4qlX8uNaYV9V",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Reinforcement Learning: Exploration vs Exploitation Tradeoff",
+        "url": "https://www.youtube.com/embed/33Je0fmsZPg?si=8Br_TIyn3egLpGaL",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Reinforcement Learning: Generalization in RL",
+        "url": "https://www.youtube.com/embed/ywcYi6zBISU?si=z4aOT51PPuEzygUH",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      }
+    ],
+    "Module 12: Deep Learning": [
+      {
+        "title": "Deep Learning : Perceptrons and Activation functions",
+        "url": "https://www.youtube.com/embed/9vaB1ypdL9g?si=CAiu_IWftWNM9ujw",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Deep Learning : Example of Handwritten digit recognition",
+        "url": "https://www.youtube.com/embed/ZPfTc9SFpbk?si=ZjxaiDYYeb8XkvhL",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Deep Learning : Neural Layer as matrix operations",
+        "url": "https://www.youtube.com/embed/ZrTvlzIgeLo?si=MtLuDSPh9_sZ0BvY",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Deep Learning : Differentiable loss function",
+        "url": "https://www.youtube.com/embed/At3YyO3Y2gI?si=IXpZQuapX7tbYgoh",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Deep Learning : Backpropagation through a computational graph",
+        "url": "https://www.youtube.com/embed/7od609mb8a0?si=Q-VsTB4dKJnZAOvf",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Deep Learning : Thin Deep Vs Fat Shallow Networks",
+        "url": "https://www.youtube.com/embed/LWsXdcMPQpE?si=qy6anv7gP4G1zZcA",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Deep Learning : Convolutional Neural Networks",
+        "url": "https://www.youtube.com/embed/JZZ5Bd7SQPE?si=y46KhBaHmVpzwKzx",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Deep Learning : Deep Reinforcement Learning",
+        "url": "https://www.youtube.com/embed/50cRa75WDS0?si=aeyEZSqJLqEKv2kX",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Ethics of AI : Humans vs Robots",
+        "url": "https://www.youtube.com/embed/B6fhiaHZYEM?si=WdvWbuHPXshkAEEb",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Ethics of AI : Robustness and Transparency of AI systems",
+        "url": "https://www.youtube.com/embed/uQrNHSPrjwI?si=x4QANqNLNLRoeU_c",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Ethics of AI : Data Bias and Fairness of AI systems",
+        "url": "https://www.youtube.com/embed/s_Tw452OEhs?si=k7afNylF45I7BJgc",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Ethics of AI : Accountability, privacy and Human-AI interaction",
+        "url": "https://www.youtube.com/embed/ZOP0sIH3PEA?si=hrhxyFPp5MzcGneg",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Wrapup",
+        "url": "https://www.youtube.com/embed/XkLpV5lNbw0?si=rjG97mxa5JIkSIqC",
+        "credits": "Video by Prof. Mausam, IIT Delhi – via NPTEL",
+        "instructor": "Prof. Mausam",
+        "institution": "IIT Delhi",
+        "source": "NPTEL"
+      }
+    ]
+  },
+
+  "Programming": {
+    "Week 1": [
+      {
+        "title": "Lecture 1 Part 1: Introduction",
+        "url": "https://www.youtube.com/embed/efXI8anQwXo?si=g9ce97R8YpWlUaZU",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 1 Part 2: Introduction",
+        "url": "https://www.youtube.com/embed/NuSpfatuU84?si=hgJ2jJEmbLQqw3fP",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 1 Part 3: Introduction",
+        "url": "https://www.youtube.com/embed/9gHKNJgmpNw?si=HswxYSP55tdUj5MA",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+
+      {
+        "title": "Lecture 1 Part 4: Introduction",
+        "url": "https://www.youtube.com/embed/l4ToYxif-A4?si=MHr7Cb7qr6WMX3-4",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 2 Part 1:  Problem Solving using Computer",
+        "url": "https://www.youtube.com/embed/LNcMZrgqMG8?si=X5v8GCQRPGDHtbkCP",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 2 Part 2:  Problem Solving using Computer",
+        "url": "https://www.youtube.com/embed/JR3Ysh0ySXY?si=1PJG63DAAdmcYYIA",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+
+      {
+        "title": "Lecture 2 Part 3:  Problem Solving using Computer",
+        "url": "https://www.youtube.com/embed/T1zMigesILA?si=IRmBroeRaO9DvjSK",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 2 Part 4:  Problem Solving using Computer",
+        "url": "https://www.youtube.com/embed/FBsBfq8LI7g?si=HEpD520QZBj7oXBk",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 2 Part 5:  Problem Solving using Computer",
+        "url": "https://www.youtube.com/embed/UsYEy6J2OoI?si=lcXNm3vtfB02FdIL",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 2": [
+      {
+        "title": "Lecture 3 Part 1 : Basic Elements of Program",
+        "url": "https://www.youtube.com/embed/efXI8anQwXo?si=osxuSb8L76C3dDnI",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 3 Part 2 : Basic Elements of Program",
+        "url": "https://www.youtube.com/embed/NuSpfatuU84?si=tAZjlbe9WE6fo4KZ",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 3 Part 3 : Basic Elements of Program",
+        "url": "https://www.youtube.com/embed/9gHKNJgmpNw?si=APgHSprvR843ziZ-",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+
+      {
+        "title": "Lecture 3 Part 4 : Basic Elements of Program",
+        "url": "https://www.youtube.com/embed/l4ToYxif-A4?si=OqHYUeSAA4Bd92WN",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+
+      {
+        "title": "Lecture 4 Part 1 : Program Design",
+        "url": "https://www.youtube.com/embed/LNcMZrgqMG8?si=I6JynSB_RbNLTtQr",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 4 Part 2 : Program Design",
+        "url": "https://www.youtube.com/embed/r7wRLIfqkZA?si=-lPPGo19GI5u9qSe",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 4 Part 3 : Program Design",
+        "url": "https://www.youtube.com/embed/rTmC6_hQesA?si=TnrRbwkjVxuR8hB_",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 5 : Simple cpp Graphics",
+        "url": "https://www.youtube.com/embed/nZmSKNfbRxc?si=UnYGk6R7GVYoL9MA",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 3": [
+      {
+        "title": "Lecture 6 Part 1 : Switch statement and logical data",
+        "url": "https://www.youtube.com/embed/eQO7Hax06kE?si=ZFNQ-TbNJwYorKHN",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 6 Part 2 : Switch statement and logical data",
+        "url": "https://www.youtube.com/embed/MU7fE8KF2U4?si=dWhZkDePZkI_ojnD",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 6 Part 3 : Switch statement and logical data",
+        "url": "https://www.youtube.com/embed/JqhLGuo7Xvw?si=4Fv_v0kf-Lsg89-3",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 6 Part 4: Switch statement and logical data",
+        "url": "https://www.youtube.com/embed/smmxx3Ca7Mg?si=GxfpbcL8ny17zopm",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 7 Part 1 : Loops",
+        "url": "https://www.youtube.com/embed/BJ_0eQRrgrQ?si=QTfrEksB7hvUe5Dz",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 7 Part 2:  Mark averaging",
+        "url": "https://www.youtube.com/embed/GmNLoZ1qVco?si=obCUBfbeV6LgVDJj",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 7 Part 3: The break and continue statements",
+        "url": "https://www.youtube.com/embed/-0D0FSK-WzY?si=gcIBSBAhEocGuqeU",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 7 Part 4: THe for statement",
+        "url": "https://www.youtube.com/embed/smmxx3Ca7Mg?si=GxfpbcL8ny17zopm",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 7 Part 5: Euclid's algorithm for GCD",
+        "url": "https://www.youtube.com/embed/O3WlqAH_naA?si=gurp0DkH91PuwpEa",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 7 Part 6: Correctness proof for GCD",
+        "url": "https://www.youtube.com/embed/iHoiuaFWTi8?si=IH1XyofSEHl7imAU",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 4": [
+      {
+        "title": "Lecture 8 : Computing Mathematical Functions Part 1 : Taylor series",
+        "url": "https://www.youtube.com/embed/O5LGsxehX7w?si=COBRhC62xMtPBfEB",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+
+      {
+        "title": "Lecture 8 : Computing Mathematical Functions Part 2: Taylor series",
+        "url": "https://www.youtube.com/embed/WQQdfzTWWBY?si=-zHboNXiajY7vRbv",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 8 : Computing Mathematical Functions Part 3 : Taylor series",
+        "url": "https://www.youtube.com/embed/wflr8xIuazs?si=WW_XY2VDmtV6beLA",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 8 : Computing Mathematical Functions Part 4 : Taylor series",
+        "url": "https://www.youtube.com/embed/gwU8isPJgeM?si=OcDd9qDGQGwy0i2Z",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 9 : Loops in various applications Part 1 : Brute force algorithms",
+        "url": "https://www.youtube.com/embed/sV4qwU0zWpo?si=SEadq7-vjOTqzb2l",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 9 : Loops in various applications Part 2 : Brute force algorithms",
+        "url": "https://www.youtube.com/embed/sV4qwU0zWpo?si=SEadq7-vjOTqzb2l",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 9 : Loops in various applications Part 3 : Finding Pythagorean Triples",
+        "url": "https://www.youtube.com/embed/Pr3ZOS1WXAA?si=kJVBTTzRISg07yv5",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": " Lecture 9 : Loops in various applications Part 4 : Simulating a water tank",
+        "url": "https://www.youtube.com/embed/O218iB20ax4?si=jXT-ixVkuD1c_xuJ",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 9 : Loops in various applications Part 5 : Arithmetic on very large numbers",
+        "url": "https://www.youtube.com/embed/4tc0TrnCfbg?si=XzqMCcRJxtYaAgIU",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 5": [
+      {
+        "title": "Lecture 10 : Functions Part 1 : Basics",
+        "url": "https://www.youtube.com/embed/cHXho-0cE64?si=Ni-dioSeM7jPAzTG",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 10 : Functions Part 2 : Basics",
+        "url": "https://www.youtube.com/embed/cHXho-0cE64?si=Ni-dioSeM7jPAzTG",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 10 : Functions Part 2 : Examples",
+        "url": "https://www.youtube.com/embed/vIkxQjjwrDI?si=6z0xDZjjTL-HOIUs",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 10 : Functions Part 3 : Reference parameters",
+        "url": "https://www.youtube.com/embed/7ehR__TLto0?si=juIF6K5j-rRne6R7",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 10 : Functions Part 4 : Pointers",
+        "url": "https://www.youtube.com/embed/-md1ivKIAEs?si=2tbmppHDe8B17kwG",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 10 : Functions Part 5 : Graphics Objects and Lecture conclusion",
+        "url": "https://www.youtube.com/embed/gEe7twZ_Txk?si=EFydr_W7W0FI_lwe",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+
+      {
+        "title": "Lecture 11 : Recursion Part 1 : Introduction",
+        "url": "https://www.youtube.com/embed/1_AU74wmDCs?si=tqBc-kgtXmS1wcpx",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 11 : Recursion Part 2 : Recursive objects, Tree drawing",
+        "url": "https://www.youtube.com/embed/X26X3k56S9Y?si=fU7jd-jyiwVoZn3q",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 11 : Recursion Part 3 : How to think about recursion",
+        "url": "https://www.youtube.com/embed/_6P43GSyMZM?si=2wlPLVpVND4ystDC",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 6": [
+      {
+        "title": "Lecture 12 : Virahanka Numbers Part 1 : Introduction",
+        "url": "https://www.youtube.com/embed/j8jY0ZV3GsA?si=pndCN2dkeVGfrwyU",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 12 : Virahanka Numbers Part 2 : Recursive Program",
+        "url": "https://www.youtube.com/embed/tm8L4OQ8NXQ?si=7wB19-5P0F1QjY3_",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 12 : Virahanka Numbers Part 3 : Iterative Program and Conclusion",
+        "url": "https://www.youtube.com/embed/bPckPyPqJa8?si=7-t_mz4I3mhYzSEp",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 13 : Program Organization and Functions Part 1 : Introduction",
+        "url": "https://www.youtube.com/embed/T_WBVTepRwg?si=yVxEAlFjJgJz0pml",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 13 : Program Organization and Functions Part 2 : Splitting into files",
+        "url": "https://www.youtube.com/embed/_w3U9kAW3ZI?si=AWP6YZUSVwXtjvjS",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 13 : Program Organization and Functions Part 3 : Namespaces",
+        "url": "https://www.youtube.com/embed/tmB2RUQxdUw?si=qpf7W3x2lT49cEA5",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 13 : Program Organization and Functions Part 4 : How to use C++ without simplecpp",
+        "url": "https://www.youtube.com/embed/zk68zaDuAVA?si=nzO-Pc-ZHOLN6cQe",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 14 : Advanced Features of Functions Part 1: Introduction and passing one function to another",
+        "url": "https://www.youtube.com/embed/Et2PIGxduS8?si=DN6XskZcAL8iRhy1",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 14 : Advanced Features of Functions Part 2 : Lambda expressions",
+        "url": "https://www.youtube.com/embed/vku0nGoLvXI?si=a5BMGigmg7bbOeKs",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 14 : Advanced Features of Functions Part 3 : Default values to parameters",
+        "url": "https://www.youtube.com/embed/BLmywY6d4ho?si=rXwdrzAV_PNk673M",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 14 : Advanced Features of Functions Part 4 : Function over loading and lecture conclusion",
+        "url": "https://www.youtube.com/embed/6x5PpO1tXh0?si=EBdd6JUjsic6C8c2",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 7": [
+      {
+        "title": "Lecture 15 : Array Part-1 : Part 1 : Introduction",
+        "url": "https://www.youtube.com/embed/_pQfHQcqthA?si=-SSRrE6sKPxqlgA9",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 15 : Array Part-1 : Part 2 : Marks averaging problem",
+        "url": "https://www.youtube.com/embed/b46GkhtKk30?si=vEvX6v75-Yj3nNG4",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 15 : Array Part-1 : Part 3 : Histogram computation",
+        "url": "https://www.youtube.com/embed/jdv62xB2eOg?si=zwj_3hKOEwmrfPdu",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 15 : Array Part-1 : Part 4 : Marks display variation",
+        "url": "https://www.youtube.com/embed/O1KFwwJB9Rg?si=gGMvTo2fncdJLiNg",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 15 : Array Part-1 : Part 5 : Polynomial multiplication",
+        "url": "https://www.youtube.com/embed/HO1HGDlglF0?si=mbeMNl4munAcNu4l",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 15 : Array Part-1 : Part 6 : Queues in dispatching taxis",
+        "url": "https://www.youtube.com/embed/rYA3nYPLdTg?si=RHh3ra-LhiytsYv-",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 15 : Array Part-1 : Part 7 : More efficient Queues in dispatching taxis",
+        "url": "https://www.youtube.com/embed/MX4E62rnDA8?si=t2WAUNqElTxbt-cD",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 15 : Array Part-1 : Part 8 : Disk intersection",
+        "url": "https://www.youtube.com/embed/5XmsngKRl24?si=6iZTOY5g6QrUahNZ",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 15 : Array Part-1 : Part 9 : Arrays of graphical objects and conclusion",
+        "url": "https://www.youtube.com/embed/aRsev9iHuPE?si=GMqfIQo1Mev4MSbY",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 16 : Array Part-2 : Part 1 : Introduction",
+        "url": "https://www.youtube.com/embed/82cxE0zsr30?si=5y-REKXNEdZjngF4",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 16 : Array Part-2 : Part 2 : Interpretation of aname[index]",
+        "url": "https://www.youtube.com/embed/Ljb7dNLk5Mg?si=JxAeax2UKqAiZf6x",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 16 : Array Part-2 : Part 3 : Arrays and function calls",
+        "url": "https://www.youtube.com/embed/ZJDMEX8c7c8?si=i5hfgOFOCWw47QIB",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 16 : Array Part-2 : Part 4 : A function to sort an array",
+        "url": "https://www.youtube.com/embed/p74jqnkB_fs?si=EYZuUWdFCY301hC6",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 8": [
+      {
+        "title": "Lecture 17 : More on Arrays : Part 1 : Textual data",
+        "url": "https://www.youtube.com/embed/zllR8R11f08?si=zQUN9sG18YgAmyj1",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 17 : More on Arrays : Part 2 : Functions on character strings",
+        "url": "https://www.youtube.com/embed/3FCl5zws9xE?si=21_Atdqgz-HhS-W6",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 17 : More on Arrays : Part 3 : Two dimensional arrays",
+        "url": "https://www.youtube.com/embed/OyhctFgORGU?si=t7Winp3Eb3fYe7Q",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 17 : More on Arrays : Part 4 : Command Line Arguments",
+        "url": "https://www.youtube.com/embed/fxysVa8iU-c?si=821v-qcCyZ4DYS7l",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+
+      {
+        "title": "Lecture 18 : Arrays and recursion : Part 1 : Binary Search Introduction",
+        "url": "https://www.youtube.com/embed/JQxGS5HLxg8?si=C3QMVKBI_Ot_jh38",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 18 : Arrays and recursion : Part 2 : Binary search analysis",
+        "url": "https://www.youtube.com/embed/B2WI5GkLuR8?si=YXo8WIOp61zfUBff",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 18 : Arrays and recursion : Part 3 : Mergesort overview",
+        "url": "https://www.youtube.com/embed/xD2EKeXb3G8?si=jlTQ0esAwmiwc3vu",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 18 : Arrays and recursion : Part 4 : Merge function",
+        "url": "https://www.youtube.com/embed/obe0FyYv5K0?si=cvUXedIm_fEwR4cy",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 18 : Arrays and recursion : Part 5 : Mergesort conclusion",
+        "url": "https://www.youtube.com/embed/ADDpDC0TCBw?si=09ZAyoaiZuXNmL2S",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 9": [
+      {
+        "title": "Lecture 19 : Structures : Part 1 : Definition and instantiation",
+        "url": "https://www.youtube.com/embed/0Nh5hdqQHYU?si=2egpJtnEZoIUX11G",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 19 : Structures : Part 2 : Operations on structures",
+        "url": "https://www.youtube.com/embed/IPhwyNKRZp0?si=lR8_bZwvoRYm9rQa",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 19 : Structures : Part 3 : An example program",
+        "url": "https://www.youtube.com/embed/EsRYEuUjed8?si=y3fb0zjdPgzeGB1Z",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 19 : Structures : Part 4 : Pointers and lecture conclusion",
+        "url": "https://www.youtube.com/embed/hvDw7WA4Z1o?si=9lZm56hDmZnu8hAB",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 20 : Structures Part 2 : Part 1 : Introduction to Member functions",
+        "url": "https://www.youtube.com/embed/Au_S3P45lVM?si=Zi2ct9F9SAlS6ntv",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 20 : Structures Part 2 : Part 2 : Vectors from Physics",
+        "url": "https://www.youtube.com/embed/nDzsqjnzYBY?si=2slhUFO4RBJYqeHw",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 20 : Structures Part 2 : Part 3 : Taxi dispatch",
+        "url": "https://www.youtube.com/embed/vUkobzSdtI4?si=38iZ3KpA8wcZnWxl",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 21 : Classes : Part 1 : Introduction",
+        "url": "https://www.youtube.com/embed/MElmXBxs1K8?si=L_s3ali2SbElGU1_",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 21 : Classes : Part 2 : Taxi dispatch",
+        "url": "https://www.youtube.com/embed/liyApYvf3ss?si=0KNNLpEE7nn9blsV",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 21 : Classes : Part 3 : Operator overloading",
+        "url": "https://www.youtube.com/embed/zcg33ZqYVuw?si=7_yPEJyqhgobe3Tv",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 21 : Classes : Part 4 : Access control",
+        "url": "https://www.youtube.com/embed/i2uCjrt_S5o?si=ulb5HDjl8fr3d2xE",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 21 : Classes : Part 5 : Classes for graphics and input output",
+        "url": "https://www.youtube.com/embed/y6WEV77CJ54?si=dowgsj_Nq5_bzp2w",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 10": [
+      {
+        "title": " Lecture 22 : Representing variable length entities: Part 1 : Introduction",
+        "url": "https://www.youtube.com/embed/DBsmrzOAFac?si=kevWtmCQCodfovuF",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 22 : Representing variable length entities: Part 2 : Heap memory basics",
+        "url": "https://www.youtube.com/embed/UQXt3N8hby4?si=uCtfRBv_ndJs6PLF",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 22 : Representing variable length entities: Part 3 : Pitfalls of using heap memory",
+        "url": "https://www.youtube.com/embed/3IYlS1hT7Hs?si=WfCqKFmUUZB1E36i",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 22 : Representing variable length entities: Part 4 : Automating memory management",
+        "url": "https://www.youtube.com/embed/LEew75ViorI?si=kOBcdMByvHNanKYT",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": " Lecture 22 : Part 5 : Implementing a class with automated memory management 1",
+        "url": "https://www.youtube.com/embed/ldBj_oHfQMQ?si=KhPUkse77LqvDIE5",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": " Lecture 23 : The Standard Library: Part 1 : Class string",
+        "url": "https://www.youtube.com/embed/N_h2t4_wWkY?si=ItbkmNxCwFOUBGEM",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": " Lecture 23 : The Standard Library: Part 2 : Class vector",
+        "url": "https://www.youtube.com/embed/htAc1ROHgFU?si=BLVWYMExS3akNaOM",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 23 : The Standard Library: Part 3 : Sorting vectors and arrays",
+        "url": "https://www.youtube.com/embed/nAmT3PhsM2g?si=ae9_KsyYeQbcVy-S",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 23 : The Standard Library: Part 4 : Classes map and unordered_map",
+        "url": "https://www.youtube.com/embed/OiPjWf0T7cY?si=86EGKRq_zy_85Xt6",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 11": [
+      {
+        "title": "Lecture 24 : Data structure based programming : Part 1 : Introduction",
+        "url": "https://www.youtube.com/embed/YnCOZKunD-w?si=GIJcm87xdw9dnOCu",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 24 : Data structure based programming : Part 2 : Set and pair classes",
+        "url": "https://www.youtube.com/embed/xpcb4OEzu8s?si=_JwKzGoFrwwdEm7O",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 24 : Part 3 : Implementation of standard library data structures",
+        "url": "https://www.youtube.com/embed/iMzBkUZLcn0?si=AokbItickcguqBZS",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 24 : Data structure based programming : Part 4 : Composing data structures",
+        "url": "https://www.youtube.com/embed/4q_bSS2--fg?si=pId0Jo8yewZMkjSA",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+
+      {
+        "title": " Lecture 25 : Medium size programs : Part 1 : The new marks display program",
+        "url": "https://www.youtube.com/embed/ZmzduYEGGzY?si=P7XDhl2xuBM9dxQN",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 25 : Medium size programs : Part 2 : Manual algorithm for new marks display",
+        "url": "https://www.youtube.com/embed/i3ZQdODrFwM?si=6jGqmoE6QxQUXXy5",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 25 : Medium size programs : Part 3 : RSMTAB and rest of the program",
+        "url": "https://www.youtube.com/embed/AAgxzaHxRC8?si=5VbEOJevuCpPma4w",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 12": [
+      {
+        "title": "Lecture 26 : A graphical editor and solver for circuits : Part 1 : Outline",
+        "url": "https://www.youtube.com/embed/cHhLZH-HHMk?si=e12PdgmuQYb3ZUX2",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 26 : A graphical editor and solver for circuits : Part 2 : Main program and organization",
+        "url": "https://www.youtube.com/embed/xstRzG7PxIM?si=SvupRpskJLIUTSTk",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 26: Part 3: Mathematical representation of the circuit",
+        "url": "https://www.youtube.com/embed/-BsfplT2W3A?si=YbQDgjt5RQsmnVT2",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 27 : Cosmological simulation : Part 1 : Introduction and First order Euler method",
+        "url": "https://www.youtube.com/embed/QNlTZBWFjIw?si=lXULGTdNVgo-ZOlG",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 27 : Cosmological simulation : Part 2 : Second order Euler method",
+        "url": "https://www.youtube.com/embed/nhVt5M9REJE?si=DaNCj2TLPuVOSfbx",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 27 : Cosmological simulation : Part 2 : Second order Euler method",
+        "url": "https://www.youtube.com/embed/nhVt5M9REJE?si=1Mrmb8fcFjqcmSTP",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture 27 : Cosmological simulation : Part 4 : Concluding remarks",
+        "url": "https://www.youtube.com/embed/5ZldOqIjdW4?si=iYfZtNhmIwKl4FSd",
+        "credits": "Video by Prof. Abhiram G Ranade, IIT Bombay – via NPTEL",
+        "instructor": "Prof. Abhiram G Ranade",
+        "institution": "IIT Bombay",
+        "source": "NPTEL"
+      }
+    ]
+  },
+
+  "Machine Learning": {
+    "Week 1": [
+      {
+        "title": "Machine Learning - Course info",
+        "url": "https://www.youtube.com/embed/O9Tjcc0Dm-E?si=nLfn07L7aMk37x-z",
+        "credits": "Video by Prof. Anubha Gupta, IIIt Delhi – via NPTEL",
+        "instructor": "Prof. Anubha Gupta",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Introduction to Machine Learning",
+        "url": "https://www.youtube.com/embed/oX0sfqHsGMI?si=HvRCaq2oYJ1Y4zzo",
+        "credits": "Video by Prof. Anubha Gupta, IIIT Delhi – via NPTEL",
+        "instructor": "Prof. Anubha Gupta",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Linear Algebra: Review(Vector Spaces)",
+        "url": "https://www.youtube.com/embed/awcgVqN8Xcs?si=PDdNV-Eo7DAVAG67",
+        "credits": "Video by Prof. Anubha Gupta, IIIT Delhi – via NPTEL",
+        "instructor": "Prof. Anubha Gupta",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Linear Algebra: Review (Matrices)",
+        "url": "https://www.youtube.com/embed/Ivpk2rbphFQ?si=ZEdBC5jGkMy9Bjo5",
+        "credits": "Video by Prof. Anubha Gupta, IIIT Delhi – via NPTEL",
+        "instructor": "Prof. Anubha Gupta",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Probability Theory: Review (Basics of Probability)",
+        "url": "https://www.youtube.com/embed/T0NTzYd5eGU?si=1BfoakiArtDJtkO8",
+        "credits": "Video by Prof. Anubha Gupta, IIIT Delhi – via NPTEL",
+        "instructor": "Prof. Anubha Gupta",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      }
+    ],
+
+    "Week 2": [
+      {
+        "title": "Probability Theory: Review (Random Variables)",
+        "url": "https://www.youtube.com/embed/eE6yC0kPyNc?si=C_qDRKgPWzvsXrUK",
+        "credits": "Video by Prof. Anubha Gupta, IIIT Delhi – via NPTEL",
+        "instructor": "Prof. Anubha Gupta",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Linear Regression",
+        "url": "https://www.youtube.com/embed/HFhuVrDCXSg?si=zVGUsXa-muXxNX0C",
+        "credits": "Video by Prof. Anubha Gupta, IIIT Delhi – via NPTEL",
+        "instructor": "Prof. Anubha Gupta",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Linear Regression-2",
+        "url": "https://www.youtube.com/embed/Fmcb795F7KY?si=u_ZsvrUsgQoe7UN_",
+        "credits": "Video by Prof. Anubha Gupta, IIIT Delhi – via NPTEL",
+        "instructor": "Prof. Anubha Gupta",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Tutorial: Linear Regression",
+        "url": "https://www.youtube.com/embed/dV0qE-ajLtM?si=C_Ramx8dAGLGBwZO",
+        "credits": "Video by Phd Student Sachin Motwani, IIIT Delhi – via NPTEL",
+        "instructor": "Sachin Motwani",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 3": [
+      {
+        "title": "Linear Regression",
+        "url": "https://www.youtube.com/embed/JL8Bxxmr7A0?si=LF8voHpU1OaKj9iH",
+        "credits": "Video by Prof. Anubha Gupta, IIIT Delhi – via NPTEL",
+        "instructor": "Prof. Anubha Gupta",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Linear Kernel Regression",
+        "url": "https://www.youtube.com/embed/5UB-G5xH9nQ?si=GUf_HSHsvz_Drdsd",
+        "credits": "Video by Prof. Anubha Gupta, IIIT Delhi – via NPTEL",
+        "instructor": "Prof. Anubha Gupta",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "k-Nearest Neighbour (k-NN) Regression",
+        "url": "https://www.youtube.com/embed/kYRIpD62ofE?si=g1gTkEy5p3SkLcxt",
+        "credits": "Video by Prof. Anubha Gupta, IIIT Delhi – via NPTEL",
+        "instructor": "Prof. Anubha Gupta",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Tutorial: k-NN Regression",
+        "url": "https://www.youtube.com/embed/vW0XNmQKrFk?si=K6Kw-cPnBTKcZKBQ",
+        "credits": "Video by Prof. Anubha Gupta, IIIT Delhi – via NPTEL",
+        "instructor": "Prof. Anubha Gupta",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Tutorial: Kernel Regression",
+        "url": "https://www.youtube.com/embed/VGHidb3ocsQ?si=3-5kg4xA4KH8ariJ",
+        "credits": "Video by Phd Student Sachin Motwani, IIIT Delhi – via NPTEL",
+        "instructor": "Sachin Motwani",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 4": [
+      {
+        "title": "Logistic Regression: Classification Evaluation Metrics",
+        "url": "https://www.youtube.com/embed/IImptOIqllo?si=I3dpBEa_xCMlLWGP",
+        "credits": "Video by Prof. Anubha Gupta, IIIT Delhi – via NPTEL",
+        "instructor": "Prof. Anubha Gupta",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Logistic Regression",
+        "url": "https://www.youtube.com/embed/lunb2hCcsWc?si=zCNLnHLzDds3QV9U",
+        "credits": "Video by Prof. Anubha Gupta, IIIT Delhi – via NPTEL",
+        "instructor": "Prof. Anubha Gupta",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Logistic Regression: Examples",
+        "url": "https://www.youtube.com/embed/Fs3P6h7Qvrw?si=Hf8mFJESkc9_Fm_H",
+        "credits": "Video by Prof. Anubha Gupta, IIIT Delhi – via NPTEL",
+        "instructor": "Prof. Anubha Gupta",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Tutorial: Logistic Regression",
+        "url": "https://www.youtube.com/embed/sAQTEqwqa8c?si=hwP6Vds6SRDVpPoN",
+        "credits": "Video by Prof. Anubha Gupta, IIIT Delhi – via NPTEL",
+        "instructor": "Prof. Anubha Gupta",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 5": [
+      {
+        "title": "Neural Networks",
+        "url": "https://www.youtube.com/embed/C3NwjB5xl6k?si=3zTU9VPIGi6nxX-5",
+        "credits": "Video by Prof. Anubha Gupta, IIIT Delhi – via NPTEL",
+        "instructor": "Prof. Anubha Gupta",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Neural Networks-2",
+        "url": "https://www.youtube.com/embed/3cnoDNWrTMw?si=iGMmxO2hJu80j4ik",
+        "credits": "Video by Prof. Anubha Gupta, IIIT Delhi – via NPTEL",
+        "instructor": "Prof. Anubha Gupta",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Neural Networks: Examples",
+        "url": "https://www.youtube.com/embed/un1KnL-UVsE?si=21kJRtnzL7G_8288",
+        "credits": "Video by Prof. Anubha Gupta, IIIT Delhi – via NPTEL",
+        "instructor": "Prof. Anubha Gupta",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Tutorial: Neural Networks",
+        "url": "https://www.youtube.com/embed/-D1g1apkDms?si=oDPpBmmVht2NIAzz",
+        "credits": "Video by Prof. Anubha Gupta, IIIT Delhi – via NPTEL",
+        "instructor": "Prof. Anubha Gupta",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 6": [
+      {
+        "title": "Practical Machine Learning",
+        "url": "https://www.youtube.com/embed/Lndyuu_65A4?si=cvAF1VZObXWHF323",
+        "credits": "Video by Prof. Anubha Gupta, IIIT Delhi – via NPTEL",
+        "instructor": "Prof. Anubha Gupta",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Practical Machine Learning: Part-2",
+        "url": "https://www.youtube.com/embed/yQUjWHWtYxU?si=7OPf2TiZrlU5aBFo",
+        "credits": "Video by Prof. Anubha Gupta, IIIT Delhi – via NPTEL",
+        "instructor": "Prof. Anubha Gupta",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Practical Machine Learning: Part-3",
+        "url": "https://www.youtube.com/embed/gKuLG48fH94?si=IC0soYTWAtzdecru",
+        "credits": "Video by Prof. Anubha Gupta, IIIT Delhi – via NPTEL",
+        "instructor": "Prof. Anubha Gupta",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Practical Machine Learning: Part-4",
+        "url": "https://www.youtube.com/embed/1MFwC2ESVuw?si=WB3S8d0A2aUOlzCK",
+        "credits": "Video by Prof. Anubha Gupta, IIIT Delhi – via NPTEL",
+        "instructor": "Prof. Anubha Gupta",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 7": [
+      {
+        "title": "Support Vector Machines(SVM)",
+        "url": "https://www.youtube.com/embed/3ki3RKdbcPo?si=a-E7isFXVIFgqk19",
+        "credits": "Video by Prof. Anubha Gupta, IIIT Delhi – via NPTEL",
+        "instructor": "Prof. Anubha Gupta",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Tutorial: Support Vector Machines (SVM)",
+        "url": "https://www.youtube.com/embed/jOEPDmZW_f0?si=hL2orvDPNBOmAAXZ",
+        "credits": "Video by Prof. Anubha Gupta, IIIT Delhi – via NPTEL",
+        "instructor": "Prof. Anubha Gupta",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 8": [
+      {
+        "title": "Kernel Support Vector Machines (K-SVM)",
+        "url": "https://www.youtube.com/embed/W1xmPzK0H9E?si=WtMqcUKiMCZQEpbT",
+        "credits": "Video by Prof. Anubha Gupta, IIIT Delhi – via NPTEL",
+        "instructor": "Prof. Anubha Gupta",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Naïve Bayes Classification",
+        "url": "https://www.youtube.com/embed/rlPEKSIQN80?si=3kPGioieYEe9Hpf3",
+        "credits": "Video by Prof. Anubha Gupta, IIIT Delhi – via NPTEL",
+        "instructor": "Prof. Anubha Gupta",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Decision Trees - Part 1",
+        "url": "https://www.youtube.com/embed/MSNM0h_Vqx4?si=zkq0L-bLRZRelLzK",
+        "credits": "Video by Prof. Anubha Gupta, IIIT Delhi – via NPTEL",
+        "instructor": "Prof. Anubha Gupta",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Decision Trees - Part 2",
+        "url": "https://www.youtube.com/embed/phBjdkdrjqE?si=FaLlCV1JmysTfIkj",
+        "credits": "Video by Prof. Anubha Gupta, IIIT Delhi – via NPTEL",
+        "instructor": "Prof. Anubha Gupta",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Tutorial: NaÃ¯ve Bayes Classification",
+        "url": "https://www.youtube.com/embed/p76rADYdNys?si=qO-jVCNne3nd6JRK",
+        "credits": "Video by Phd Student Sachin Motwani, IIIT Delhi – via NPTEL",
+        "instructor": "Sachin Motwani",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Tutorial: Decision Trees",
+        "url": "https://www.youtube.com/embed/AIeKRdarY54?si=cymS2a9oUhT_tSqs",
+        "credits": "Video by Phd Student Sachin Motwani, IIIT Delhi – via NPTEL",
+        "instructor": "Sachin Motwani",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 9": [
+      {
+        "title": "K-NN Classifier",
+        "url": "https://www.youtube.com/embed/vP1AmFhjdtA?si=OcaeuiwJEnCyHuja",
+        "credits": "Video by Prof. Anubha Gupta, IIIT Delhi – via NPTEL",
+        "instructor": "Prof. Anubha Gupta",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Ensemble Learning",
+        "url": "https://www.youtube.com/embed/l-TTMwqzNMQ?si=1H1dk795YDTQ40aE",
+        "credits": "Video by Prof. Anubha Gupta, IIIT Delhi – via NPTEL",
+        "instructor": "Prof. Anubha Gupta",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Random Forests",
+        "url": "https://www.youtube.com/embed/e1gYXDheIWY?si=uNdY0ZtN9CI7_YTM",
+        "credits": "Video by Prof. Anubha Gupta, IIIT Delhi – via NPTEL",
+        "instructor": "Prof. Anubha Gupta",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Bagging (Bootstrap AGGregatING)",
+        "url": "https://www.youtube.com/embed/LvX8BMvTR_M?si=al2XeBFts_Cs7z8b",
+        "credits": "Video by Prof. Anubha Gupta, IIIT Delhi – via NPTEL",
+        "instructor": "Prof. Anubha Gupta",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Tutorial: Random Forests",
+        "url": "https://www.youtube.com/embed/cs8NPsRDx4w?si=_yf2faPwZDADRBI5",
+        "credits": "Video by Prof. Anubha Gupta, IIIT Delhi – via NPTEL",
+        "instructor": "Prof. Anubha Gupta",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Tutorial: k-NN Classifier & Bootstrap AGGregatING (Bagging)",
+        "url": "https://www.youtube.com/embed/vuXUoBEM4VM?si=IfAJ9rngsTvrIvTh",
+        "credits": "Video by Phd Student Sachin Motwani, IIIT Delhi – via NPTEL",
+        "instructor": "Sachin Motwani",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 10": [
+      {
+        "title": "Boosting",
+        "url": "https://www.youtube.com/embed/TDAh6dI2L2A?si=0XbAJ2SbCZGiOuQm",
+        "credits": "Video by Prof. Anubha Gupta, IIIT Delhi – via NPTEL",
+        "instructor": "Prof. Anubha Gupta",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Clustering",
+        "url": "https://www.youtube.com/embed/UUu9CG4fndk?si=ZuRQNyjsW2m2Hf1y",
+        "credits": "Video by Prof. Anubha Gupta, IIIT Delhi – via NPTEL",
+        "instructor": "Prof. Anubha Gupta",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "k-means Clustering",
+        "url": "https://www.youtube.com/embed/y0glye2CQxM?si=N2MnnX7QUP0wWIZ4",
+        "credits": "Video by Prof. Anubha Gupta, IIIT Delhi – via NPTEL",
+        "instructor": "Prof. Anubha Gupta",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Tutorial: Boosting",
+        "url": "https://www.youtube.com/embed/Q7MGHiGr7Hg?si=Oblzu0Ai0wqaDl-a",
+        "credits": "Video by Prof. Anubha Gupta, IIIT Delhi – via NPTEL",
+        "instructor": "Prof. Anubha Gupta",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 11": [
+      {
+        "title": "Spectral Clustering",
+        "url": "https://www.youtube.com/embed/CXgqox8Md8o?si=bWEIZumTH4Me1QRW",
+        "credits": "Video by Prof. Anubha Gupta, IIIT Delhi – via NPTEL",
+        "instructor": "Prof. Anubha Gupta",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Mixture of Models (Gaussian Mixture Models-GMM)",
+        "url": "https://www.youtube.com/embed/sF6s-10HaLs?si=KJYRVT_vUPPxquUX",
+        "credits": "Video by Prof. Anubha Gupta, IIIT Delhi – via NPTEL",
+        "instructor": "Prof. Anubha Gupta",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Dimensionality Reduction: Principal Component Analysis (PCA) & kernel PCA",
+        "url": "https://www.youtube.com/embed/YepECGlOl4Y?si=xH77jpQ80L0B29dF",
+        "credits": "Video by Prof. Anubha Gupta, IIIT Delhi – via NPTEL",
+        "instructor": "Prof. Anubha Gupta",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Tutorial: k-means and Spectral Clustering",
+        "url": "https://www.youtube.com/embed/et0FrPf9_Uk?si=ISDXpb5hfsQDL01B",
+        "credits": "Video by Prof. Anubha Gupta, IIIT Delhi – via NPTEL",
+        "instructor": "Prof. Anubha Gupta",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Tutorial: Principal Component Analysis (PCA) and Gaussian Mixture Models (GMM)",
+        "url": "https://www.youtube.com/embed/Rhn93zqkMxc?si=q4qf5W5fM3A4qvBq",
+        "credits": "Video by Phd Student Sachin Motwani, IIIT Delhi – via NPTEL",
+        "instructor": "Sachin Motwani",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      }
+    ],
+    "week 12": [
+      {
+        "title": "Introduction to Deep Learning (DL)",
+        "url": "https://www.youtube.com/embed/-E1tiQbP_Kw?si=1gT_Izl8IT7rNQCQ",
+        "credits": "Video by Prof. Anubha Gupta, IIIT Delhi – via NPTEL",
+        "instructor": "Prof. Anubha Gupta",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Convolutional Neural Networks (CNN): Part A",
+        "url": "https://www.youtube.com/embed/GGpLAmCIT_U?si=m19AGU34_VVQ6zc4",
+        "credits": "Video by Prof. Anubha Gupta, IIIT Delhi – via NPTEL",
+        "instructor": "Prof. Anubha Gupta",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Convolutional Neural Networks (CNN): Part B",
+        "url": "https://www.youtube.com/embed/FJsYh4B7BXA?si=Y57JRFEf46Wfm6bb",
+        "credits": "Video by Prof. Anubha Gupta, IIIT Delhi – via NPTEL",
+        "instructor": "Prof. Anubha Gupta",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Autoencoders",
+        "url": "https://www.youtube.com/embed/9Q-vb6IyMNE?si=ZfUTXglky5-ecQT5",
+        "credits": "Video by Prof. Anubha Gupta, IIIT Delhi – via NPTEL",
+        "instructor": "Prof. Anubha Gupta",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Applications of ML in Healthcare Problems: Part 1",
+        "url": "https://www.youtube.com/embed/eZ2SNMiq7z4?si=-cSx59p1cLSj2znW",
+        "credits": "Video by Prof. Anubha Gupta, IIIT Delhi – via NPTEL",
+        "instructor": "Prof. Anubha Gupta",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Applications of ML in Healthcare Problems: Part 2",
+        "url": "https://www.youtube.com/embed/mnxFn8IT8Fw?si=-vzSI2fjx3e4Vny7",
+        "credits": "Video by Prof. Anubha Gupta, IIIT Delhi – via NPTEL",
+        "instructor": "Prof. Anubha Gupta",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Tutorial: CNN and Autoencoder",
+        "url": "https://www.youtube.com/embed/GaAVUtuMVQw?si=cRM6P8-1rVfqgqyl",
+        "credits": "Video by Phd Student Sachin Motwani, IIIT Delhi – via NPTEL",
+        "instructor": "Sachin Motwani",
+        "institution": "IIIT Delhi",
+        "source": "NPTEL"
+      }
+    ]
+  },
+
+  "Robotics": {
+    "Week 1": [
+      {
+        "title": "Introduction to Robotics(Overview)",
+        "url": "https://www.youtube.com/embed/a6_fgnuuYfE?si=i-1nKzti82TePsCm",
+        "credits": "Video by prof. T Asokan, IIT Madras – via NPTEL",
+        "instructor": "Prof. T Asokan",
+        "institution": "IIT Madras",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Introduction",
+        "url": "https://www.youtube.com/embed/P_PP76flZfw?si=-K3FvkSg880HiDoO",
+        "credits": "Video by prof. T Asokan, IIT Madras – via NPTEL",
+        "instructor": "Prof. T Asokan",
+        "institution": "IIT Madras",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Evolution of Robotics",
+        "url": "https://www.youtube.com/embed/xKmL_kMxqZw?si=8u9Ua39wIylRHfJt",
+        "credits": "Video by prof. T Asokan, IIT Madras – via NPTEL",
+        "instructor": "Prof. T Asokan",
+        "institution": "IIT Madras",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Kinematics- Coordinate transformations",
+        "url": "https://www.youtube.com/embed/XOg1KT6xD04?si=FdmBuzeMeQVgltOz",
+        "credits": "Video by prof. T Asokan, IIT Madras – via NPTEL",
+        "instructor": "Prof. T Asokan",
+        "institution": "IIT Madras",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Homogeneus Transformation Matrix",
+        "url": "https://www.youtube.com/embed/v7pt-64Kvts?si=IxkvaQ1zaSvNMIOo",
+        "credits": "Video by prof. T Asokan, IIT Madras – via NPTEL",
+        "instructor": "Prof. T Asokan",
+        "institution": "IIT Madras",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 2": [
+      {
+        "title": "Industrial Robot- Kinematic Structures",
+        "url": "https://www.youtube.com/embed/6rsvc4D4iCc?si=18BcU_00GlsV44SL",
+        "credits": "Video by prof. T Asokan, IIT Madras – via NPTEL",
+        "instructor": "Prof. T Asokan",
+        "institution": "IIT Madras",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Robot Architectures",
+        "url": "https://www.youtube.com/embed/5boZ_0OlxaI?si=sGSSmljTCAKIqE3m",
+        "credits": "Video by prof. T Asokan, IIT Madras – via NPTEL",
+        "instructor": "Prof. T Asokan",
+        "institution": "IIT Madras",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Kinematics Parameters",
+        "url": "https://www.youtube.com/embed/LfHD3l_DbsE?si=wNPbzYBlGFYuP6yU",
+        "credits": "Video by prof. T Asokan, IIT Madras – via NPTEL",
+        "instructor": "Prof. T Asokan",
+        "institution": "IIT Madras",
+        "source": "NPTEL"
+      },
+      {
+        "title": "DH Algorithm",
+        "url": "https://www.youtube.com/embed/K_yvWED--UQ?si=mlrFYDhFNFMpkj6J",
+        "credits": "Video by prof. T Asokan, IIT Madras – via NPTEL",
+        "instructor": "Prof. T Asokan",
+        "institution": "IIT Madras",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 3": [
+      {
+        "title": "DH Algorithm- Examples",
+        "url": "https://www.youtube.com/embed/pSai4LZHP18?si=z3XNQQgF0EUceYn0",
+        "credits": "Video by prof. T Asokan, IIT Madras – via NPTEL",
+        "instructor": "Prof. T Asokan",
+        "institution": "IIT Madras",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Forward Kinematics",
+        "url": "https://www.youtube.com/embed/J87P0OjqAsU?si=KMk6BJnHwVMCjoKZ",
+        "credits": "Video by prof. T Asokan, IIT Madras – via NPTEL",
+        "instructor": "Prof. T Asokan",
+        "institution": "IIT Madras",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Forward Kinematics- Examples",
+        "url": "https://www.youtube.com/embed/sk9A9gntBnk?si=_ihCEEqt9N5riNix",
+        "credits": "Video by prof. T Asokan, IIT Madras – via NPTEL",
+        "instructor": "Prof. T Asokan",
+        "institution": "IIT Madras",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Inverse Kinematics",
+        "url": "https://www.youtube.com/embed/unwUt3kkgvE?si=YJ6xSI-K1tlEonZ4",
+        "credits": "Video by prof. T Asokan, IIT Madras – via NPTEL",
+        "instructor": "Prof. T Asokan",
+        "institution": "IIT Madras",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 4": [
+      {
+        "title": "Inverse Kinematics- Examples",
+        "url": "https://www.youtube.com/embed/t6EGMvL6lE0?si=hgp-9VywdVPMGDLt",
+        "credits": "Video by prof. T Asokan, IIT Madras – via NPTEL",
+        "instructor": "Prof. T Asokan",
+        "institution": "IIT Madras",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Differential Relations",
+        "url": "https://www.youtube.com/embed/sH6czYqDhZg?si=6r5BEdiRMSERsjlS",
+        "credits": "Video by prof. T Asokan, IIT Madras – via NPTEL",
+        "instructor": "Prof. T Asokan",
+        "institution": "IIT Madras",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Manipulator Jacobian and Statics",
+        "url": "https://www.youtube.com/embed/pTZncikpt3w?si=a8BY3qB7QK9RoHcb",
+        "credits": "Video by prof. T Asokan, IIT Madras – via NPTEL",
+        "instructor": "Prof. T Asokan",
+        "institution": "IIT Madras",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 5": [
+      {
+        "title": "Overview of Electric Actuators and Operational Needs",
+        "url": "https://www.youtube.com/embed/1A9Gpfk68xI?si=4iAQksq9Jb9c95YN",
+        "credits": "Video by prof. Krishna Vasudevan, IIT Madras – via NPTEL",
+        "instructor": "Prof. Krishna Vasudevan",
+        "institution": "IIT Madras",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Principles of DC Motor Operation",
+        "url": "https://www.youtube.com/embed/CR1O8cRF5Bs?si=kOhrfHBCgEk8x7V0",
+        "credits": "Video by prof. Krishna Vasudevan, IIT Madras – via NPTEL",
+        "instructor": "Prof. Krishna Vasudevan",
+        "institution": "IIT Madras",
+        "source": "NPTEL"
+      },
+      {
+        "title": "DC Motor Equations and Principles of Control",
+        "url": "https://www.youtube.com/embed/v2F4m-7a1mQ?si=g-A9Na9aDk5SvANB",
+        "credits": "Video by prof. Krishna Vasudevan, IIT Madras – via NPTEL",
+        "instructor": "Prof. Krishna Vasudevan",
+        "institution": "IIT Madras",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 6": [
+      {
+        "title": "DC Motor Control Regions and Principles of Power Electronics",
+        "url": "https://www.youtube.com/embed/qE3Yi3FmzTQ?si=bPRDUt6zsgdaVkar",
+        "credits": "Video by prof. Krishna Vasudevan, IIT Madras – via NPTEL",
+        "instructor": "Prof. Krishna Vasudevan",
+        "institution": "IIT Madras",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Power Electronic Switching and Current Ripple",
+        "url": "https://www.youtube.com/embed/W7D8sYwVbUA?si=FMmf-DMdQ1GGy14d",
+        "credits": "Video by prof. Krishna Vasudevan, IIT Madras – via NPTEL",
+        "instructor": "Prof. Krishna Vasudevan",
+        "institution": "IIT Madras",
+        "source": "NPTEL"
+      },
+      {
+        "title": "The H-Bridge and DC Motor Control Structure",
+        "url": "https://www.youtube.com/embed/ZyKSXpiHqmY?si=8LvVSWWRx9yt8ywn",
+        "credits": "Video by prof. Krishna Vasudevan, IIT Madras – via NPTEL",
+        "instructor": "Prof. Krishna Vasudevan",
+        "institution": "IIT Madras",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 7": [
+      {
+        "title": "The Brushless DC Machine",
+        "url": "https://www.youtube.com/embed/O6XiVD_2AUg?si=bun8hIHfbs12DjAn",
+        "credits": "Video by prof. Krishna Vasudevan, IIT Madras – via NPTEL",
+        "instructor": "Prof. Krishna Vasudevan",
+        "institution": "IIT Madras",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Control of the Brushless DC Motor",
+        "url": "https://www.youtube.com/embed/bhYjz7Yv5gs?si=q9RqJV7amKcQifMi",
+        "credits": "Video by prof. Krishna Vasudevan, IIT Madras – via NPTEL",
+        "instructor": "Prof. Krishna Vasudevan",
+        "institution": "IIT Madras",
+        "source": "NPTEL"
+      },
+      {
+        "title": "The PM Synchronous Motor (PMSM) and SPWM",
+        "url": "https://www.youtube.com/embed/EcXIxNf-4Ws?si=2YD3mRpDpT_PYiHt",
+        "credits": "Video by prof. Krishna Vasudevan, IIT Madras – via NPTEL",
+        "instructor": "Prof. Krishna Vasudevan",
+        "institution": "IIT Madras",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 8": [
+      {
+        "title": "Principles of PMSM Control",
+        "url": "https://www.youtube.com/embed/WCCMkCXqMMY?si=qqGrZqUzeVnW5Z-N",
+        "credits": "Video by prof. Krishna Vasudevan, IIT Madras – via NPTEL",
+        "instructor": "Prof. Krishna Vasudevan",
+        "institution": "IIT Madras",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Encoders for Speed and Position Estimation",
+        "url": "https://www.youtube.com/embed/sj4VU59lR64?si=widnRcb9HeA3aNiU",
+        "credits": "Video by prof. Krishna Vasudevan, IIT Madras – via NPTEL",
+        "instructor": "Prof. Krishna Vasudevan",
+        "institution": "IIT Madras",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Stepper Motors",
+        "url": "https://www.youtube.com/embed/oZGLLDjwwrw?si=2jMqCIHCovO4DrdB",
+        "credits": "Video by prof. Krishna Vasudevan, IIT Madras – via NPTEL",
+        "instructor": "Prof. Krishna Vasudevan",
+        "institution": "IIT Madras",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 9": [
+      {
+        "title": "Introduction to Probabilistic Robotics.",
+        "url": "https://www.youtube.com/embed/j7BVHy231B0?si=fP2X0r9m7GsmMKGY",
+        "credits": "Video by prof. Balaraman Ravindiran, IIT Madras – via NPTEL",
+        "instructor": "Prof. Balaraman Ravindiran",
+        "institution": "IIT Madras",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Recursive State Estimation: Bayes Filter",
+        "url": "https://www.youtube.com/embed/v0FJhNy6Fh0?si=kRp1qfj__jpOhdeV",
+        "credits": "Video by prof. Balaraman Ravindiran, IIT Madras – via NPTEL",
+        "instructor": "Prof. Balaraman Ravindiran",
+        "institution": "IIT Madras",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Recursive State Estimation: Bayes Filter Illustration.",
+        "url": "https://www.youtube.com/embed/8PtZx6SeJ2s?si=cY3BpUwfoeN1FZmU",
+        "credits": "Video by prof. Balaraman Ravindiran, IIT Madras – via NPTEL",
+        "instructor": "Prof. Balaraman Ravindiran",
+        "institution": "IIT Madras",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Probability basics",
+        "url": "https://www.youtube.com/embed/Cd6LCCE0BOE?si=A-N5EovoGt_N9yBf",
+        "credits": "Video by prof. Balaraman Ravindiran, IIT Madras – via NPTEL",
+        "instructor": "Prof. Balaraman Ravindiran",
+        "institution": "IIT Madras",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Probability basics-2",
+        "url": "https://www.youtube.com/embed/hQU3_tygd-E?si=b1YagcKG_fdrTeEW",
+        "credits": "Video by prof. Balaraman Ravindiran, IIT Madras – via NPTEL",
+        "instructor": "Prof. Balaraman Ravindiran",
+        "institution": "IIT Madras",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 10": [
+      {
+        "title": "Kalman Filter",
+        "url": "https://www.youtube.com/embed/E9QL8XWJIh8?si=6ZcZVFc6buo1UBYW",
+        "credits": "Video by prof. Balaraman Ravindiran, IIT Madras – via NPTEL",
+        "instructor": "Prof. Balaraman Ravindiran",
+        "institution": "IIT Madras",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Extended Kalman Filter",
+        "url": "https://www.youtube.com/embed/c7V5_uQ2ues?si=-S_cElu_kQuB-HmI",
+        "credits": "Video by prof. Balaraman Ravindiran, IIT Madras – via NPTEL",
+        "instructor": "Prof. Balaraman Ravindiran",
+        "institution": "IIT Madras",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Particle Filter",
+        "url": "https://www.youtube.com/embed/UOKYhuGOUPI?si=BsUNVQyclrs4cWbu",
+        "credits": "Video by prof. Balaraman Ravindiran, IIT Madras – via NPTEL",
+        "instructor": "Prof. Balaraman Ravindiran",
+        "institution": "IIT Madras",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Binary Bayes",
+        "url": "https://www.youtube.com/embed/odk5ZfSStag?si=aONBbtvMbXdxVCD9",
+        "credits": "Video by prof. Balaraman Ravindiran, IIT Madras – via NPTEL",
+        "instructor": "Prof. Balaraman Ravindiran",
+        "institution": "IIT Madras",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 11": [
+      {
+        "title": "Velocity Motion Model",
+        "url": "https://www.youtube.com/embed/b-SFJvW4QIo?si=cbT7g3HjfP88d4Yb",
+        "credits": "Video by prof. Balaraman Ravindiran, IIT Madras – via NPTEL",
+        "instructor": "Prof. Balaraman Ravindiran",
+        "institution": "IIT Madras",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Odometry Motion Model",
+        "url": "https://www.youtube.com/embed/PPwih9x12YQ?si=mWHCyZpvOnpFoxXC",
+        "credits": "Video by prof. Balaraman Ravindiran, IIT Madras – via NPTEL",
+        "instructor": "Prof. Balaraman Ravindiran",
+        "institution": "IIT Madras",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Occuopa Grid Mapping",
+        "url": "https://www.youtube.com/embed/Tvkut1Z7Muw?si=q-NIBOaC0b6fl28J",
+        "credits": "Video by prof. Balaraman Ravindiran, IIT Madras – via NPTEL",
+        "instructor": "Prof. Balaraman Ravindiran",
+        "institution": "IIT Madras",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Range Finder Measurement Model",
+        "url": "https://www.youtube.com/embed/SwzKOMm1X_I?si=PxOryOcc7WkxGBGA",
+        "credits": "Video by prof. Balaraman Ravindiran, IIT Madras – via NPTEL",
+        "instructor": "Prof. Balaraman Ravindiran",
+        "institution": "IIT Madras",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 12": [
+      {
+        "title": "Localization Taxonomy",
+        "url": "https://www.youtube.com/embed/r9rVyLyviFE?si=CFxDwkkEmlvie-lP",
+        "credits": "Video by prof. Balaraman Ravindiran, IIT Madras – via NPTEL",
+        "instructor": "Prof. Balaraman Ravindiran",
+        "institution": "IIT Madras",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Markov Localization",
+        "url": "https://www.youtube.com/embed/BZyP-KgD_8k?si=S7wjvwdBJ6k2kszh",
+        "credits": "Video by prof. Balaraman Ravindiran, IIT Madras – via NPTEL",
+        "instructor": "Prof. Balaraman Ravindiran",
+        "institution": "IIT Madras",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Path Planning",
+        "url": "https://www.youtube.com/embed/QtsIG67fF-g?si=vGYQNRKn2b1Fwpbv",
+        "credits": "Video by prof. Balaraman Ravindiran, IIT Madras – via NPTEL",
+        "instructor": "Prof. Balaraman Ravindiran",
+        "institution": "IIT Madras",
+        "source": "NPTEL"
+      }
+    ]
+  },
+
+  "Cybersecurity": {
+    "Week 1": [
+      {
+        "title": "Lecture-1",
+        "url": "https://www.youtube.com/embed/dm9xZIzDhwM?si=ut_F9qndQe3qDOso",
+        "credits": "Video by prof. Sandeep K. Shukla, IIT Kanpur – via NPTEL",
+        "instructor": "Prof. Sandeep K. Shukla",
+        "institution": "IIT Kanpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture-2",
+        "url": "https://www.youtube.com/embed/wQYyhtaUwqI?si=Ke8xnjbH9Jw60Pf9",
+        "credits": "Video by prof. Sandeep K. Shukla, IIT Kanpur – via NPTEL",
+        "instructor": "Prof. Sandeep K. Shukla",
+        "institution": "IIT Kanpur",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 2": [
+      {
+        "title": "Lecture-3",
+        "url": "https://www.youtube.com/embed/oVAt2Uilq04?si=NAEShg2ELkIornMR",
+        "credits": "Video by prof. Sandeep K. Shukla, IIT Kanpur – via NPTEL",
+        "instructor": "Prof. Sandeep K. Shukla",
+        "institution": "IIT Kanpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture-4",
+        "url": "https://www.youtube.com/embed/cu6C5H1G20s?si=zGLYkKhhTkzFPojM",
+        "credits": "Video by prof. Sandeep K. Shukla, IIT Kanpur – via NPTEL",
+        "instructor": "Prof. Sandeep K. Shukla",
+        "institution": "IIT Kanpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture-5",
+        "url": "https://www.youtube.com/embed/AevbRQXMJcQ?si=ZF07Sz1miSa_cVOe",
+        "credits": "Video by prof. Sandeep K. Shukla, IIT Kanpur – via NPTEL",
+        "instructor": "Prof. Sandeep K. Shukla",
+        "institution": "IIT Kanpur",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 3": [
+      {
+        "title": "Lecture-6",
+        "url": "https://www.youtube.com/embed/3zOKW3LVIPY?si=AXsh4Jy98ibhE7Pe",
+        "credits": "Video by prof. Sandeep K. Shukla, IIT Kanpur – via NPTEL",
+        "instructor": "Prof. Sandeep K. Shukla",
+        "institution": "IIT Kanpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture-7",
+        "url": "https://www.youtube.com/embed/fzlQCap8sf8?si=M0uOsuv4x5sH7dKZ",
+        "credits": "Video by prof. Sandeep K. Shukla, IIT Kanpur – via NPTEL",
+        "instructor": "Prof. Sandeep K. Shukla",
+        "institution": "IIT Kanpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture-8",
+        "url": "https://www.youtube.com/embed/nbR9E7ow7kI?si=3kLYCVj92QZ5DDh9",
+        "credits": "Video by prof. Sandeep K. Shukla, IIT Kanpur – via NPTEL",
+        "instructor": "Prof. Sandeep K. Shukla",
+        "institution": "IIT Kanpur",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 4": [
+      {
+        "title": "Lecture-9",
+        "url": "https://www.youtube.com/embed/G6wEXhblNyY?si=zxHdMhDf5YvNw1ZZ",
+        "credits": "Video by prof. Sandeep K. Shukla, IIT Kanpur – via NPTEL",
+        "instructor": "Prof. Sandeep K. Shukla",
+        "institution": "IIT Kanpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture-10",
+        "url": "https://www.youtube.com/embed/_uiHeAIJKaU?si=8qUX5pgfnEaV4vhQ",
+        "credits": "Video by prof. Sandeep K. Shukla, IIT Kanpur – via NPTEL",
+        "instructor": "Prof. Sandeep K. Shukla",
+        "institution": "IIT Kanpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture-11",
+        "url": "https://www.youtube.com/embed/T0NLPRAFkPM?si=oIEjElAWhrzX9G88",
+        "credits": "Video by prof. Sandeep K. Shukla, IIT Kanpur – via NPTEL",
+        "instructor": "Prof. Sandeep K. Shukla",
+        "institution": "IIT Kanpur",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 5": [
+      {
+        "title": "Lecture-12",
+        "url": "https://www.youtube.com/embed/Z9PRVqWaYXg?si=BJSloOo8HXvq9Z-a",
+        "credits": "Video by prof. Sandeep K. Shukla, IIT Kanpur – via NPTEL",
+        "instructor": "Prof. Sandeep K. Shukla",
+        "institution": "IIT Kanpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture-13",
+        "url": "https://www.youtube.com/embed/qtYUKfgdGdQ?si=inZ0kXxgsZxf8B5B",
+        "credits": "Video by prof. Sandeep K. Shukla, IIT Kanpur – via NPTEL",
+        "instructor": "Prof. Sandeep K. Shukla",
+        "institution": "IIT Kanpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture-14",
+        "url": "https://www.youtube.com/embed/52N5IvLHljA?si=R1eT62sd0tgBD_eF",
+        "credits": "Video by prof. Sandeep K. Shukla, IIT Kanpur – via NPTEL",
+        "instructor": "Prof. Sandeep K. Shukla",
+        "institution": "IIT Kanpur",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 6": [
+      {
+        "title": "Lecture-15",
+        "url": "https://www.youtube.com/embed/YfYxD9aeg6g?si=NSA5Fd2CyAwQGD5o",
+        "credits": "Video by prof. Sandeep K. Shukla, IIT Kanpur – via NPTEL",
+        "instructor": "Prof. Sandeep K. Shukla",
+        "institution": "IIT Kanpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture-16",
+        "url": "https://www.youtube.com/embed/CCrrFFXatEo?si=xrkSy3q2OijtmHon",
+        "credits": "Video by prof. Sandeep K. Shukla, IIT Kanpur – via NPTEL",
+        "instructor": "Prof. Sandeep K. Shukla",
+        "institution": "IIT Kanpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture-17",
+        "url": "https://www.youtube.com/embed/WYVbqS9O0PY?si=frkeM70JKETwun9c",
+        "credits": "Video by prof. Sandeep K. Shukla, IIT Kanpur – via NPTEL",
+        "instructor": "Prof. Sandeep K. Shukla",
+        "institution": "IIT Kanpur",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 7": [
+      {
+        "title": "Lecture-18",
+        "url": "https://www.youtube.com/embed/TTmUDOi4UA4?si=kskdOF9t5t67DcGd",
+        "credits": "Video by prof. Sandeep K. Shukla, IIT Kanpur – via NPTEL",
+        "instructor": "Prof. Sandeep K. Shukla",
+        "institution": "IIT Kanpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture-19",
+        "url": "https://www.youtube.com/embed/aFrFRceB6E0?si=WYdiJ5RWxnrmmsD6",
+        "credits": "Video by prof. Sandeep K. Shukla, IIT Kanpur – via NPTEL",
+        "instructor": "Prof. Sandeep K. Shukla",
+        "institution": "IIT Kanpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture-20",
+        "url": "https://www.youtube.com/embed/pO-O3tbwmNQ?si=U47VdR32R1eckqNN",
+        "credits": "Video by prof. Sandeep K. Shukla, IIT Kanpur – via NPTEL",
+        "instructor": "Prof. Sandeep K. Shukla",
+        "institution": "IIT Kanpur",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 8": [
+      {
+        "title": "Lecture-21",
+        "url": "https://www.youtube.com/embed/Jvu4DGeb3Mo?si=F_43caIXvP14-9dR",
+        "credits": "Video by prof. Sandeep K. Shukla, IIT Kanpur – via NPTEL",
+        "instructor": "Prof. Sandeep K. Shukla",
+        "institution": "IIT Kanpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture-22",
+        "url": "https://www.youtube.com/embed/xn-a39lfN4U?si=GangAtQsLOT3WS9_",
+        "credits": "Video by prof. Sandeep K. Shukla, IIT Kanpur – via NPTEL",
+        "instructor": "Prof. Sandeep K. Shukla",
+        "institution": "IIT Kanpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture-23",
+        "url": "https://www.youtube.com/embed/sVzASJ6LWB0?si=8VMOnjf405bE44eN",
+        "credits": "Video by prof. Sandeep K. Shukla, IIT Kanpur – via NPTEL",
+        "instructor": "Prof. Sandeep K. Shukla",
+        "institution": "IIT Kanpur",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 9": [
+      {
+        "title": "Lecture-24",
+        "url": "https://www.youtube.com/embed/7845mUmQJuU?si=_F2gj8pUxjEnhXS_",
+        "credits": "Video by prof. Sandeep K. Shukla, IIT Kanpur – via NPTEL",
+        "instructor": "Prof. Sandeep K. Shukla",
+        "institution": "IIT Kanpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture-25",
+        "url": "https://www.youtube.com/embed/_8ZC61Q7Q6s?si=SI8S3uwUVyPCaO_W",
+        "credits": "Video by prof. Sandeep K. Shukla, IIT Kanpur – via NPTEL",
+        "instructor": "Prof. Sandeep K. Shukla",
+        "institution": "IIT Kanpur",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 10": [
+      {
+        "title": "Lecture-26",
+        "url": "https://www.youtube.com/embed/APoSgdq2uJg?si=Dfj94qTDLnTCa8h-",
+        "credits": "Video by prof. Sandeep K. Shukla, IIT Kanpur – via NPTEL",
+        "instructor": "Prof. Sandeep K. Shukla",
+        "institution": "IIT Kanpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture-27",
+        "url": "https://www.youtube.com/embed/2YR5KBGwdg0?si=1kj_n5O0tkyQ_mt2",
+        "credits": "Video by prof. Sandeep K. Shukla, IIT Kanpur – via NPTEL",
+        "instructor": "Prof. Sandeep K. Shukla",
+        "institution": "IIT Kanpur",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 11": [
+      {
+        "title": "Lecture-28",
+        "url": "https://www.youtube.com/embed/RpR3QAZPXPg?si=RNJSk6pwM2k3u3N9",
+        "credits": "Video by prof. Sandeep K. Shukla, IIT Kanpur – via NPTEL",
+        "instructor": "Prof. Sandeep K. Shukla",
+        "institution": "IIT Kanpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture-29",
+        "url": "https://www.youtube.com/embed/BGK6lbEFqrE?si=49-FImhJZU_YBi4E",
+        "credits": "Video by prof. Sandeep K. Shukla, IIT Kanpur – via NPTEL",
+        "instructor": "Prof. Sandeep K. Shukla",
+        "institution": "IIT Kanpur",
+        "source": "NPTEL"
+      }
+    ],
+    "Week 12": [
+      {
+        "title": "Lecture-30",
+        "url": "https://www.youtube.com/embed/rnrnoV26ygI?si=QzI-HZb-cqPkspDT",
+        "credits": "Video by prof. Sandeep K. Shukla, IIT Kanpur – via NPTEL",
+        "instructor": "Prof. Sandeep K. Shukla",
+        "institution": "IIT Kanpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Lecture-31",
+        "url": "https://www.youtube.com/embed/9WcC5A8SwJk?si=nxOLySHsBbbfPIr1",
+        "credits": "Video by prof. Sandeep K. Shukla, IIT Kanpur – via NPTEL",
+        "instructor": "Prof. Sandeep K. Shukla",
+        "institution": "IIT Kanpur",
+        "source": "NPTEL"
+      }
+    ]
+  },
+
+  "Science | Research": {
+    "Quantum Computing For Beginners": [
+      {
+        "title": "Introduction to Imaginary and Complex Numbers",
+        "url": "https://www.youtube.com/embed/8J-H7gbDCos?si=tfqlp78rpvl9VplR",
+        "credits": "Video by Quantum Soar - via youtube",
+        "instructor": "Quantum Soar",
+        "institution": "Individual",
+        "source": "Youtube"
+      },
+      {
+        "title": "Complex Number on the Number Plane",
+        "url": "https://www.youtube.com/embed/F7vHr7blzJ4?si=jxNOlxIxXPLHEnBs",
+        "credits": "Video by Quantum Soar - via youtube",
+        "instructor": "Quantum Soar",
+        "institution": "Individual",
+        "source": "Youtube"
+      },
+      {
+        "title": "Intoduction to matrices",
+        "url": "https://www.youtube.com/embed/7mcpxPyg8zo?si=1itiPY-g6bJa8cZf",
+        "credits": "Video by Quantum Soar - via youtube",
+        "instructor": "Quantum Soar",
+        "institution": "Individual",
+        "source": "Youtube"
+      },
+      {
+        "title": "Matrices as transformations",
+        "url": "https://www.youtube.com/embed/yu0fMSyy3CY?si=FnZrLAbEfP7N-IHI",
+        "credits": "Video by Quantum Soar - via youtube",
+        "instructor": "Quantum Soar",
+        "institution": "Individual",
+        "source": "Youtube"
+      },
+      {
+        "title": "Introduction to Qubit and Superposition",
+        "url": "https://www.youtube.com/embed/urNWf4Ezisc?si=7vEJ0C5LV4g70L7u",
+        "credits": "Video by Quantum Soar - via youtube",
+        "instructor": "Quantum Soar",
+        "institution": "Individual",
+        "source": "Youtube"
+      },
+      {
+        "title": "Introduction to Dirac Notation",
+        "url": "https://www.youtube.com/embed/RyPQL8lccx4?si=oIZeu9LG_Sxzz2RW",
+        "credits": "Video by Quantum Soar - via youtube",
+        "instructor": "Quantum Soar",
+        "institution": "Individual",
+        "source": "Youtube"
+      },
+      {
+        "title": "Representing a Qubit on the Bloch Sphere",
+        "url": "https://www.youtube.com/embed/4EGY4ajn1Iw?si=mfYrqDEvlLCw8J1F",
+        "credits": "Video by Quantum Soar - via youtube",
+        "instructor": "Quantum Soar",
+        "institution": "Individual",
+        "source": "Youtube"
+      },
+      {
+        "title": "Manipulating a Qubit with Single Qubit Gates",
+        "url": "https://www.youtube.com/embed/01-3FzQwfCg?si=xEKG_5TB1737NhnJ",
+        "credits": "Video by Quantum Soar - via youtube",
+        "instructor": "Quantum Soar",
+        "institution": "Individual",
+        "source": "Youtube"
+      },
+      {
+        "title": "Intoduction to Phase",
+        "url": "https://www.youtube.com/embed/uZD8BkMOSsM?si=0fOxVfCmKhRpakhV",
+        "credits": "Video by Quantum Soar - via youtube",
+        "instructor": "Quantum Soar",
+        "institution": "Individual",
+        "source": "Youtube"
+      },
+      {
+        "title": "The Hadamard Gate and the +,-,i and -i States",
+        "url": "https://www.youtube.com/embed/G9d0QWM82sU?si=dWmiSb7fAPh-X09l",
+        "credits": "Video by Quantum Soar - via youtube",
+        "instructor": "Quantum Soar",
+        "institution": "Individual",
+        "source": "Youtube"
+      },
+      {
+        "title": "The Phase Gates(S and T gates)",
+        "url": "https://www.youtube.com/embed/P0IuxwZxSTk?si=CnCsNyOpHO7Xfa69",
+        "credits": "Video by Quantum Soar - via youtube",
+        "instructor": "Quantum Soar",
+        "institution": "Individual",
+        "source": "Youtube"
+      },
+      {
+        "title": "Representing Multiple Qubits",
+        "url": "https://www.youtube.com/embed/ZJKN8h6Vk2c?si=iipq2kYh7I_URI8_",
+        "credits": "Video by Quantum Soar - via youtube",
+        "instructor": "Quantum Soar",
+        "institution": "Individual",
+        "source": "Youtube"
+      },
+      {
+        "title": "Quantum Circuits",
+        "url": "https://www.youtube.com/embed/ctGWeHw410s?si=s6N0SmKNp9083R-h",
+        "credits": "Video by Quantum Soar - via youtube",
+        "instructor": "Quantum Soar",
+        "institution": "Individual",
+        "source": "Youtube"
+      },
+      {
+        "title": "Multi-Qubit Gates(CNOT,Toffoli,etc)",
+        "url": "https://www.youtube.com/embed/pFdO6gS9hBk?si=Yn6YJtj2YL56j1PP",
+        "credits": "Video by Quantum Soar - via youtube",
+        "instructor": "Quantum Soar",
+        "institution": "Individual",
+        "source": "Youtube"
+      },
+      {
+        "title": "Measuring Singular Qubits",
+        "url": "https://www.youtube.com/embed/s7o_BGgEupY?si=Gl23FWlWMbg04VD2",
+        "credits": "Video by Quantum Soar - via youtube",
+        "instructor": "Quantum Soar",
+        "institution": "Individual",
+        "source": "Youtube"
+      },
+      {
+        "title": "Quantum Entanglement",
+        "url": "https://www.youtube.com/embed/H3DC-hBuCSQ?si=9MX9u7gfg3uVnZwI",
+        "credits": "Video by Quantum Soar - via youtube",
+        "instructor": "Quantum Soar",
+        "institution": "Individual",
+        "source": "Youtube"
+      },
+      {
+        "title": "Phase Kickback",
+        "url": "https://www.youtube.com/embed/QI58lcgD9HI?si=PvhH8l_1pFJZrfyu",
+        "credits": "Video by Quantum Soar - via youtube",
+        "instructor": "Quantum Soar",
+        "institution": "Individual",
+        "source": "Youtube"
+      },
+      {
+        "title": "Superdense Coding",
+        "url": "https://www.youtube.com/embed/dAXdJpgiMDQ?si=qrGegxeuonAJF70F",
+        "credits": "Video by Quantum Soar - via youtube",
+        "instructor": "Quantum Soar",
+        "institution": "Individual",
+        "source": "Youtube"
+      },
+      {
+        "title": "Classical Prerequisites",
+        "url": "https://www.youtube.com/embed/XMOzNNSKKzk?si=LBkjDFPWE004YMZ0",
+        "credits": "Video by Quantum Soar - via youtube",
+        "instructor": "Quantum Soar",
+        "institution": "Individual",
+        "source": "Youtube"
+      },
+      {
+        "title": "Quantum Function",
+        "url": "https://www.youtube.com/embed/N3PhGaAZyoE?si=1eBC0ZYFG9TW57ZX",
+        "credits": "Video by Quantum Soar - via youtube",
+        "instructor": "Quantum Soar",
+        "institution": "Individual",
+        "source": "Youtube"
+      },
+      {
+        "title": "Deutsch's Algorithm",
+        "url": "https://www.youtube.com/embed/0O_WF9m0Yr0?si=8vR0HTPkg4e8Q7th",
+        "credits": "Video by Quantum Soar - via youtube",
+        "instructor": "Quantum Soar",
+        "institution": "Individual",
+        "source": "Youtube"
+      },
+      {
+        "title": "Bernstein-Vazarani Algorithm",
+        "url": "https://www.youtube.com/embed/a-w1NiXd3ps?si=cpdo_vpyV0aKv6va",
+        "credits": "Video by Quantum Soar - via youtube",
+        "instructor": "Quantum Soar",
+        "institution": "Individual",
+        "source": "Youtube"
+      },
+      {
+        "title": "Quantum Fourier Transform",
+        "url": "https://www.youtube.com/embed/svSxHaDYHC0?si=uUVVimYuayuJ7NWC",
+        "credits": "Video by Quantum Soar - via youtube",
+        "instructor": "Quantum Soar",
+        "institution": "Individual",
+        "source": "Youtube"
+      },
+      {
+        "title": "Quantum Phase Estimaion",
+        "url": "https://www.youtube.com/embed/Ex96GyRIFes?si=2Fw9-UrypVPyio1B",
+        "credits": "Video by Quantum Soar - via youtube",
+        "instructor": "Quantum Soar",
+        "institution": "Individual",
+        "source": "Youtube"
+      },
+      {
+        "title": "Shor's Algorithm",
+        "url": "https://www.youtube.com/embed/5_56TXtFVK4?si=zLzAnjp7TnLJiuno",
+        "credits": "Video by Quantum Soar - via youtube",
+        "instructor": "Quantum Soar",
+        "institution": "Individual",
+        "source": "Youtube"
+      }
+    ],
+    "Astrophysics and Cosmology": [
+      {
+        "title": "Introduction",
+        "url": "https://www.youtube.com/embed/vDv3iSMdYyc?si=Bgspi6ydrhMWSdQi",
+        "credits": "Video by prof. S. Bharadwaj, IIT Kharagpur – via NPTEL",
+        "instructor": "prof. S. Bharadwaj",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Keplers Law",
+        "url": "https://www.youtube.com/embed/ggZsMEO2q0g?si=myUCWsT7TA24UgpM",
+        "credits": "Video by prof. S. Bharadwaj, IIT Kharagpur – via NPTEL",
+        "instructor": "prof. S. Bharadwaj",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "The Solar System",
+        "url": "https://www.youtube.com/embed/P2nw2UWV-dU?si=OaC1wIDBkc7-Etau",
+        "credits": "Video by prof. S. Bharadwaj, IIT Kharagpur – via NPTEL",
+        "instructor": "prof. S. Bharadwaj",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "The Solar System (Contd.)",
+        "url": "https://www.youtube.com/embed/EW2JYlQaEzo?si=i2KeeARqCtyOe22O",
+        "credits": "Video by prof. S. Bharadwaj, IIT Kharagpur – via NPTEL",
+        "instructor": "prof. S. Bharadwaj",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Binary System",
+        "url": "https://www.youtube.com/embed/zEGYWbM9ilE?si=UbCGqHrIyD8Dw3na",
+        "credits": "Video by prof. S. Bharadwaj, IIT Kharagpur – via NPTEL",
+        "instructor": "prof. S. Bharadwaj",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Binary Systems (Contd.)",
+        "url": "https://www.youtube.com/embed/N40STzYBcNg?si=e4n-Q84hVbMdNGNc",
+        "credits": "Video by prof. S. Bharadwaj, IIT Kharagpur – via NPTEL",
+        "instructor": "prof. S. Bharadwaj",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      },
+      {
+        "title": "Tidal Forces and the Earth Moon System",
+        "url": "https://www.youtube.com/embed/9_Pwhakn2pg?si=sP0yQPhFReUSkmPH",
+        "credits": "Video by prof. S. Bharadwaj, IIT Kharagpur – via NPTEL",
+        "instructor": "prof. S. Bharadwaj",
+        "institution": "IIT Kharagpur",
+        "source": "NPTEL"
+      }
+    ]
+  },
+
+  "Web Development": {
+    "HTML": [
+      {
+        "title": "HTML (One Shot)",
+        "url": "https://www.youtube.com/embed/k2DSi1zGEc8?si=2tkuNYGmfWXoxBmS",
+        "credits": "Video by Harry - via youtube(Code with harry)",
+        "instructor": "Harry",
+        "institution": "Individual",
+        "source": "Youtube"
+      }
+    ],
+    "CSS": [
+      {
+        "title": "CSS (One Shot)",
+        "url": "https://www.youtube.com/embed/ESnrn1kAD4E?si=2Kq_0dRyEJg1xV2p",
+        "credits": "Video by Apna College - via youtube",
+        "instructor": "Shradha khapra",
+        "institution": "Apna College",
+        "source": "Youtube"
+      },
+      {
+        "title": "Tailwind CSS",
+        "url": "https://www.youtube.com/embed/BTyDQRil9s4?si=21Ml1mRQMdWwMo12",
+        "credits": "Video by WsCube Tech - via youtube",
+        "instructor": "Pradeep",
+        "institution": "WsCube Tech",
+        "source": "Youtube"
+      }
+    ],
+    "JavaScript": [
+      {
+        "title": "Variables and Datatypes",
+        "url": "https://www.youtube.com/embed/ajdRvxDWH4w?si=L3sYvXIqXTu3zYZ6",
+        "credits": "Video by Apna College - via youtube",
+        "instructor": "Shradha khapra",
+        "institution": "Apna College",
+        "source": "Youtube"
+      },
+      {
+        "title": "Operators and Condition Statements",
+        "url": "https://www.youtube.com/embed/Zg4-uSjxosE?si=k8nFHTXKkbjw-2uf",
+        "credits": "Video by Apna College - via youtube",
+        "instructor": "Shradha khapra",
+        "institution": "Apna College",
+        "source": "Youtube"
+      },
+      {
+        "title": "Loops and strings",
+        "url": "https://www.youtube.com/embed/UmRtFFSDSFo?si=iNGhgijN7jUdzlk1",
+        "credits": "Video by Apna College - via youtube",
+        "instructor": "Shradha khapra",
+        "institution": "Apna College",
+        "source": "Youtube"
+      },
+      {
+        "title": "Arrays",
+        "url": "https://www.youtube.com/embed/gFWhbjzowrM?si=MrRIQt2i0r1SeIu_",
+        "credits": "Video by Apna College - via youtube",
+        "instructor": "Shradha khapra",
+        "institution": "Apna College",
+        "source": "Youtube"
+      },
+      {
+        "title": "Function and Methods",
+        "url": "https://www.youtube.com/embed/P0XMXqDGttU?si=-cKVQnxo6zdEGHWc",
+        "credits": "Video by Apna College - via youtube",
+        "instructor": "Shradha khapra",
+        "institution": "Apna College",
+        "source": "Youtube"
+      },
+      {
+        "title": "DOM - Documents Object Model",
+        "url": "https://www.youtube.com/embed/7zcXPCt8Ck0?si=4M21RGynRhRrxLG9",
+        "credits": "Video by Apna College - via youtube",
+        "instructor": "Shradha khapra",
+        "institution": "Apna College",
+        "source": "Youtube"
+      },
+      {
+        "title": "DOM - Documents Object Model(Part-2)",
+        "url": "https://www.youtube.com/embed/fXAGTOZ25H8?si=9h__lQW4OEybxGjX",
+        "credits": "Video by Apna College - via youtube",
+        "instructor": "Shradha khapra",
+        "institution": "Apna College",
+        "source": "Youtube"
+      },
+      {
+        "title": "Events in JavaScript",
+        "url": "https://www.youtube.com/embed/_i-uLJAh79U?si=vXhuigV0UM5a28j4",
+        "credits": "Video by Apna College - via youtube",
+        "instructor": "Shradha khapra",
+        "institution": "Apna College",
+        "source": "Youtube"
+      },
+      {
+        "title": "Tic Tac Toe Game",
+        "url": "https://www.youtube.com/embed/SqrppLEljkY?si=o-pVfsGr3fOsA34n",
+        "credits": "Video by Apna College - via youtube",
+        "instructor": "Shradha khapra",
+        "institution": "Apna College",
+        "source": "Youtube"
+      },
+      {
+        "title": "Stone paper scissors Game",
+        "url": "https://www.youtube.com/embed/_V33HCZWLDQ?si=5lJvkZJpYst_mazP",
+        "credits": "Video by Apna College - via youtube",
+        "instructor": "Shradha khapra",
+        "institution": "Apna College",
+        "source": "Youtube"
+      },
+      {
+        "title": "Classes and Objects",
+        "url": "https://www.youtube.com/embed/N-O4w6PynGY?si=xtlXBdTMcRXsrxxI",
+        "credits": "Video by Apna College - via youtube",
+        "instructor": "Shradha khapra",
+        "institution": "Apna College",
+        "source": "Youtube"
+      },
+      {
+        "title": "Callbacks, Promises and Async Await",
+        "url": "https://www.youtube.com/embed/d3jXofmQm44?si=peaVRNulJcPrfikN",
+        "credits": "Video by Apna College - via youtube",
+        "instructor": "Shradha khapra",
+        "institution": "Apna College",
+        "source": "Youtube"
+      },
+      {
+        "title": "Fetch API",
+        "url": "https://www.youtube.com/embed/CyGodpqcid4?si=uusu5SPdjyPUuyvT",
+        "credits": "Video by Apna College - via youtube",
+        "instructor": "Shradha khapra",
+        "institution": "Apna College",
+        "source": "Youtube"
+      }
+    ],
+    "Backend Development": [
+      {
+        "title": "Backend Development (One Shot)",
+        "url": "https://www.youtube.com/embed/vfaRzV3P92o?si=FybS8mUPdWOjxL_i",
+        "credits": "Video by WsCube Tech - via youtube",
+        "instructor": "Pradeep",
+        "institution": "WsCube Tech",
+        "source": "Youtube"
+      },
+      {
+        "title": "Backend Development (One Shot)",
+        "url": "https://www.youtube.com/embed/Q-icS7yZz5k?si=xRXjnkH9Qi5WdJDA",
+        "credits": "Video by Sheryians Coding School - via youtube",
+        "instructor": "Ankur Prajapati",
+        "institution": "Sheryians Coding School",
+        "source": "Youtube"
+      }
+    ],
+    "Intermediate web projects": [
+      {
+        "title": "Real Estate Website",
+        "url": "https://www.youtube.com/embed/Q-icS7yZz5k?si=xRXjnkH9Qi5WdJDA",
+        "credits": "Video by codewithsadee - via youtube",
+        "instructor": "No Voiceover",
+        "institution": "Individual",
+        "source": "Youtube"
+      },
+      {
+        "title": "Personal Portfolio",
+        "url": "https://www.youtube.com/embed/jOHlyy2cUzs?si=KA9Ulwhm4xEU15AX",
+        "credits": "Video by codewithsadee - via youtube",
+        "instructor": "No Voiceover",
+        "institution": "Individual",
+        "source": "Youtube"
+      },
+      {
+        "title": "Digital Marketing Agency",
+        "url": "https://www.youtube.com/embed/GohJZd9Tu2Y?si=FIAOPh37jbvJoylB",
+        "credits": "Video by codewithsadee - via youtube",
+        "instructor": "No Voiceover",
+        "institution": "Individual",
+        "source": "Youtube"
+      }
+    ]
+  },
+
+  "Media, Arts | Entertainment": {
+    "Graphic Design": [
+      {
+        "title": "Graphic Design Course",
+        "url": "https://www.youtube.com/embed/e_dv7GBHka8?si=nXTBVDog8JmU9Kd9",
+        "credits": "Video by Lets Uncover - via youtube",
+        "instructor": "UR Rehman",
+        "institution": "Individual",
+        "source": "Youtube"
+      }
+    ],
+    "After Effect": [
+      {
+        "title": "After effect tutorial",
+        "url": "https://www.youtube.com/embed/9zkboH6PIjE?si=2E5W8vt6zfOWtlr9",
+        "credits": "Video by manish pathkhere - via youtube",
+        "instructor": "manish pathkhere",
+        "institution": "Individual",
+        "source": "Youtube"
+      }
+    ],
+    "Adobe Illustrator": [
+      {
+        "title": "Adobe Illustrator",
+        "url": "https://www.youtube.com/embed/5_aSDG1Ppqs?si=01435hJc393qa1PF",
+        "credits": "Video by Simplified Tuts - via youtube",
+        "instructor": "Ashish Rastogi",
+        "institution": "Individual",
+        "source": "Youtube"
+      }
+    ],
+    "Film Making Basics": [
+      {
+        "title": "Art of Filmmaking",
+        "url": "https://www.youtube.com/embed/XlYWZRf_IKM?si=BuFKs_-x-5VPDnZ8",
+        "credits": "Video by Dane Mace - via youtube",
+        "instructor": "Dane Mace",
+        "institution": "Individual",
+        "source": "Youtube"
+      },
+      {
+        "title": "Filmmaking Basics",
+        "url": "https://www.youtube.com/embed/BFwMRVwrKcA?si=nvo_iWKHNLPeEyH_",
+        "credits": "Video by Alfie Vaughan - via youtube",
+        "instructor": "Alfie Vaughan",
+        "institution": "Individual",
+        "source": "Youtube"
+      },
+      {
+        "title": "Basics of Cinematography",
+        "url": "https://www.youtube.com/embed/8rAe8RuICYM?si=DElcSrYhc7aay1jH",
+        "credits": "Video by Camp Films - via youtube",
+        "instructor": "Camp Films",
+        "institution": "Individual",
+        "source": "Youtube"
+      },
+      {
+        "title": "Shoot a Scene With one camera",
+        "url": "hhttps://www.youtube.com/embed/qwXfIQ8DadY?si=PI_JKLrcePcENvQ2",
+        "credits": "Video by debu the film guy - via youtube",
+        "instructor": "debu the film guy",
+        "institution": "Individual",
+        "source": "Youtube"
+      },
+      {
+        "title": "Start Filmmaking",
+        "url": "https://www.youtube.com/embed/N5K6PVq6jNQ?si=--udSCUk7DphL6xW",
+        "credits": "Video by Megan Tan - via youtube",
+        "instructor": "Megan Tan",
+        "institution": "Individual",
+        "source": "Youtube"
+      }
+    ]
+  },
+
+  "Freelance | Entrepreneurship": {
+    "Freelance 101": [
+      {
+        "title": "10 Tips To Start Freelancing",
+        "url": "https://www.youtube.com/embed/NtE5ZX-E3-o?si=cCsc1wL1zPiFmc_D",
+        "credits": "Video by Matt Starky - via youtube",
+        "instructor": "Matt Starky",
+        "institution": "Individual",
+        "source": "Youtube"
+      },
+      {
+        "title": "Make Money Online",
+        "url": "https://www.youtube.com/embed/KKy_fvgzuaw?si=nY8o0kivublilcBQ",
+        "credits": "Video by Matt Starky - via youtube",
+        "instructor": "Matt Starky",
+        "institution": "Individual",
+        "source": "Youtube"
+      },
+      {
+        "title": "Custom Proposal",
+        "url": "https://www.youtube.com/embed/Azsrt1T0VTQ?si=wxf1hL5tbEIibwAv",
+        "credits": "Video by Matt Starky - via youtube",
+        "instructor": "Matt Starky",
+        "institution": "Individual",
+        "source": "Youtube"
+      },
+      {
+        "title": "How to Start Freelancing",
+        "url": "https://www.youtube.com/embed/CEyo8VGVb44?si=3Qjp0dLBURkd_QlT",
+        "credits": "Video by Matt Starky - via youtube",
+        "instructor": "Matt Starky",
+        "institution": "Individual",
+        "source": "Youtube"
+      },
+      {
+        "title": "Secrets of Getting Clients",
+        "url": "https://www.youtube.com/embed/V_oSbK5M4x4?si=xOJGGLNcJUDLfFFI",
+        "credits": "Video by Matt Starky - via youtube",
+        "instructor": "Matt Starky",
+        "institution": "Individual",
+        "source": "Youtube"
+      },
+      {
+        "title": "Create a Freelancing Profile",
+        "url": "https://www.youtube.com/embed/H79HitjAB2k?si=ZwqRc6jaRxwJNI3_",
+        "credits": "Video by Matt Starky - via youtube",
+        "instructor": "Matt Starky",
+        "institution": "Individual",
+        "source": "Youtube"
+      }
+    ],
+    "Entrepreneurship Basics": [
+      {
+        "title": "6 Tips on Being a Successful Entrepreneur",
+        "url": "https://www.youtube.com/embed/H79HitjAB2k?si=ZwqRc6jaRxwJNI3_",
+        "credits": "Video by Ted - via youtube",
+        "instructor": "John Mullins",
+        "institution": "Ted",
+        "source": "Youtube"
+      },
+      {
+        "title": "The Foundation of Entrepreneurship - Full Course",
+        "url": "https://www.youtube.com/embed/UEngvxZ11sw?si=JyHYBOrQT0zbl8tO",
+        "credits": "Video by freeCodeCamp.org - via youtube",
+        "instructor": "Chris Haroun",
+        "institution": "freeCodeCamp.org",
+        "source": "Youtube"
+      }
+    ]
+  },
+
+  "Technical Tools and Platforms": {
+    "Adobe Photoshop": [
+      {
+        "title": "Photoshop For Complete Beginners",
+        "url": "https://www.youtube.com/embed/xTzvQkOll2U?si=hYIgC4XjXi7C9c_y",
+        "credits": "Video by PiXimperfect- via youtube",
+        "instructor": "PiXimperfect",
+        "institution": "Individual",
+        "source": "Youtube"
+      },
+      {
+        "title": "Master Layers",
+        "url": "https://www.youtube.com/embed/unCS9syPJjg?si=iPzpSNaxwUpd7lgS",
+        "credits": "Video by PiXimperfect- via youtube",
+        "instructor": "PiXimperfect",
+        "institution": "Individual",
+        "source": "Youtube"
+      },
+      {
+        "title": "Opacity Vs Fill",
+        "url": "https://www.youtube.com/embed/ok9cVCETDeE?si=0Xbf45hPLSD16Cf7",
+        "credits": "Video by PiXimperfect- via youtube",
+        "instructor": "PiXimperfect",
+        "institution": "Individual",
+        "source": "Youtube"
+      },
+      {
+        "title": "Layer Mask",
+        "url": "https://www.youtube.com/embed/aNpO6G72O3w?si=iM_P4VxUD9ckIU99",
+        "credits": "Video by PiXimperfect- via youtube",
+        "instructor": "PiXimperfect",
+        "institution": "Individual",
+        "source": "Youtube"
+      },
+      {
+        "title": "Blending Modes",
+        "url": "https://www.youtube.com/embed/doI1eH_nCxs?si=apPFO3YH1YXJbNxj",
+        "credits": "Video by PiXimperfect- via youtube",
+        "instructor": "PiXimperfect",
+        "institution": "Individual",
+        "source": "Youtube"
+      },
+      {
+        "title": "Selections",
+        "url": "https://www.youtube.com/embed/djBCDKCpsmso?si=AQ8M-3EyOBsHbK9r",
+        "credits": "Video by PiXimperfect- via youtube",
+        "instructor": "PiXimperfect",
+        "institution": "Individual",
+        "source": "Youtube"
+      },
+      {
+        "title": "Remove Tool",
+        "url": "https://www.youtube.com/embed/JCwBxVvyL9s?si=oKCWVQj7kagKAx8y",
+        "credits": "Video by PiXimperfect- via youtube",
+        "instructor": "PiXimperfect",
+        "institution": "Individual",
+        "source": "Youtube"
+      },
+      {
+        "title": "Blend If",
+        "url": "https://www.youtube.com/embed/ysShyX50r6U?si=IWU2cHMnLriafsqx",
+        "credits": "Video by PiXimperfect- via youtube",
+        "instructor": "PiXimperfect",
+        "institution": "Individual",
+        "source": "Youtube"
+      },
+      {
+        "title": "Master Filters",
+        "url": "https://www.youtube.com/embed/TDt2AxVm_7E?si=SmOlx9sX7R8lBIv8",
+        "credits": "Video by PiXimperfect- via youtube",
+        "instructor": "PiXimperfect",
+        "institution": "Individual",
+        "source": "Youtube"
+      },
+      {
+        "title": "Save and Export",
+        "url": "https://www.youtube.com/embed/7EjorOn7jAs?si=GBkrSQ2sSKFmg7Au",
+        "credits": "Video by PiXimperfect- via youtube",
+        "instructor": "PiXimperfect",
+        "institution": "Individual",
+        "source": "Youtube"
+      },
+      {
+        "title": "Intro to Camera Raw",
+        "url": "https://www.youtube.com/embed/YXCHi0Uo2Ew?si=oRxZjGo_Z40SJiwX",
+        "credits": "Video by PiXimperfect- via youtube",
+        "instructor": "PiXimperfect",
+        "institution": "Individual",
+        "source": "Youtube"
+      },
+      {
+        "title": "Master Brush Tool",
+        "url": "https://www.youtube.com/embed/CV01aTu9W-w?si=8UCNoKSqDwUSiTBB",
+        "credits": "Video by PiXimperfect- via youtube",
+        "instructor": "PiXimperfect",
+        "institution": "Individual",
+        "source": "Youtube"
+      }
+    ],
+    "Canva Design tools": [
+      {
+        "title": "Canva Tutorial For Beginners",
+        "url": "https://www.youtube.com/embed/yWJp7gQqCQ8?si=0vjui6kGV8Hos0Cz",
+        "credits": "Video by WsCube Tech - via youtube",
+        "instructor": "WsCube Tech",
+        "institution": "WsCube Tech",
+        "source": "Youtube"
+      },
+      {
+        "title": "How to use",
+        "url": "https://www.youtube.com/embed/rIhJmD4eZwE?si=mGbCA8dZntcB3-tm",
+        "credits": "Video by WsCube Tech - via youtube",
+        "instructor": "WsCube Tech",
+        "institution": "WsCube Tech",
+        "source": "Youtube"
+      },
+      {
+        "title": "Canva Side bar Tour",
+        "url": "https://www.youtube.com/embed/De9GB_6yjcY?si=p2B8xhTKlW9vxIfx",
+        "credits": "Video by WsCube Tech - via youtube",
+        "instructor": "WsCube Tech",
+        "institution": "WsCube Tech",
+        "source": "Youtube"
+      }
+    ],
+    "Git and Github": [
+      {
+        "title": "Git and Github Tutorial",
+        "url": "https://www.youtube.com/embed/Ez8F0nW6S-w?si=2pwwHjXvpJXXzJ_E",
+        "credits": "Video by Apna College - via youtube",
+        "instructor": "Shradha khapra",
+        "institution": "Apna College",
+        "source": "Youtube"
+      },
+      {
+        "title": "GitHUb Magic",
+        "url": "https://www.youtube.com/embed/yBebbcNBhRc?si=D83WNiNL0OW70j_e",
+        "credits": "Video by Sheryians Coding School - via youtube",
+        "instructor": "Sarthak Sharma",
+        "institution": "Sheryians Coding School",
+        "source": "Youtube"
+      },
+      {
+        "title": "Git and GitHUb (Including open source)",
+        "url": "https://www.youtube.com/embed/q8EevlEpQ2A?si=7Wy9uzryHGid8myY",
+        "credits": "Video by Chai aur Code - via youtube",
+        "instructor": "Hitesh Choudhary",
+        "institution": "Individual",
+        "source": "Youtube"
+      }
+    ],
+    "Figma": [
+      {
+        "title": "Master Figma UI Design",
+        "url": "https://www.youtube.com/embed/uQsyobT2Rv8?si=_ul5M_CVWTNJlznp",
+        "credits": "Video by Website Learners - via youtube",
+        "instructor": "Website Learners",
+        "institution": "Individual",
+        "source": "Youtube"
+      },
+      {
+        "title": "Figma Basics",
+        "url": "https://www.youtube.com/embed/mpJb9GNxdYI?si=_v0KWibSwFrZy2-7",
+        "credits": "Video by Harry - via youtube(Code with harry)",
+        "instructor": "Harry",
+        "institution": "Individual",
+        "source": "Youtube"
+      },
+      {
+        "title": "Figma Course",
+        "url": "https://www.youtube.com/embed/D56hs0Twfco?si=nPrK2eVdCjH7in59",
+        "credits": "Video by freeCodeCamp.org - via youtube",
+        "instructor": "Joy Shaheb",
+        "institution": "freeCodeCamp.org",
+        "source": "Youtube"
+      }
+    ]
+  }
+}

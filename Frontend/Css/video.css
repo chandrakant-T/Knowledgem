@@ -1,0 +1,75 @@
+@import url("Home.css");
+@import url("https://fonts.googleapis.com/css2?family=Irish+Grover&family=Jaini&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital,wght@0,100..900;1,100..900&display=swap");
+@import url("MediaQueries.css");
+body {
+  font-family: var(--font-roboto);
+  background: var(--primary-background);
+  color: var(--primary-text);
+  min-height: 100vh;
+  padding: 2rem;
+}
+
+#course-heading {
+  font-family: var(--font-poppins);
+  color: var(--heading-text);
+  text-align: center;
+  margin-bottom: 2rem;
+  font-size: 2.5rem;
+}
+
+#video-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 2rem;
+  padding: 1rem;
+}
+
+.video-card {
+  background: var(--primary-color);
+  border-radius: 10px;
+  padding: 1.5rem;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.video-card:hover {
+  transform: translateY(-5px);
+  color: var(--heading-text);
+  margin-bottom: 1rem;
+  font-size: 1.2rem;
+}
+
+.video-card h3 {
+  font-family: var(--font-poppins);
+}
+
+.video-card iframe {
+  width: 100%;
+  height: 200px;
+  border-radius: 5px;
+}
+
+.week-card {
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  margin-bottom: 15px;
+  overflow: hidden;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.week-header {
+  background-color: #f5f5f5;
+  padding: 12px 16px;
+  font-size: 1.2em;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.week-content {
+  padding: 15px;
+  background: #fff;
+}
+
+.video-item {
+  margin-bottom: 25px;
+}

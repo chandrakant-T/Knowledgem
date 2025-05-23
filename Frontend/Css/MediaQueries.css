@@ -1,0 +1,82 @@
+@media (max-width: 599px) {
+  #footer {
+    display: flex;
+    flex-direction: column;
+  }
+  h1 {
+    display: none;
+  }
+  header {
+    justify-content: center;
+    height: fit-content;
+  }
+}
+
+@media (max-width: 1030px) {
+  #courses-category {
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  }
+  #courses-category button {
+    height: 25px;
+  }
+  #courses-category button {
+    font-size: 15px;
+  }
+  .image {
+    width: 9em;
+    height: 8em;
+  }
+  #searchbtn {
+    display: none;
+  }
+  #menubtn {
+    display: contents;
+  }
+
+  #menu {
+    display: none;
+  }
+  ul {
+    flex-direction: column;
+  }
+  footer p {
+    font-size: 15px;
+  }
+  h2 {
+    font-size: 20px;
+  }
+  section h2 {
+    font-size: 1.5em;
+  }
+  form input {
+    height: 30px;
+  }
+
+  #menubtn img {
+    position: absolute;
+    right: 13px;
+  }
+  form button {
+    height: 25px;
+    width: 50px;
+  }
+
+  /* Dashboard */
+  .profiles,
+  .hidden {
+    margin: auto;
+  }
+}
+
+@media (min-width: 1030px) {
+  #menubtn {
+    display: none;
+  }
+}
+
+/* CourseVideo MediaQueries */
+@media (max-width: 768px) {
+  #video-list {
+    grid-template-columns: 1fr;
+  }
+}
