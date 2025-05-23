@@ -26,7 +26,7 @@ app.use("/api/auth", authRoutes);
 mongoose.set("strictQuery", true);
 // MongoDB connection
 mongoose
-  .connect("mongodb://localhost:27017/courseware")
+  .connect(process.env.MONGODB_URI || 'your-atlas-connection-string')
   .then(() => console.log("MongoDB connected"))
   .catch((err) => console.error("MongoDB connection error:", err));
 
