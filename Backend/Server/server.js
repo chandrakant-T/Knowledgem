@@ -20,6 +20,14 @@ app.use(
   })
 );
 
+
+const https = require('https');
+https.get('https://api.ipify.org?format=json', (res) => {
+  let data = '';
+  res.on('data', (chunk) => data += chunk);
+  res.on('end', () => console.log('Render IP:', JSON.parse(data).ip));
+});
+
 // for auth routes
 app.use("/api/auth", authRoutes);
 
