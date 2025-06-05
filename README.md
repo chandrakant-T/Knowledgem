@@ -1,19 +1,19 @@
 # OpenCourseWare Project
 
-Welcome to **OpenCourseWare** — a free and open platform dedicated to providing high-quality educational content on Web Development. This project covers essential topics including HTML, CSS, and Backend development using Node.js and Cloud technologies, designed for learners at all levels.
+Welcome to **Knowledgem** — a free and open platform dedicated to providing high-quality educational content. This project is a part of our IP(Integreted Project) subject.
 
 ## About the Project
 
-OpenCourseWare aims to bridge the gap in accessible education by offering carefully curated course materials that anyone can use without any cost or restrictions. The content is organized for easy navigation, helping learners progress from basics to more advanced web development concepts.
+Knowledgem aims to bridge the gap in accessible education by offering carefully curated course materials that anyone can use without any cost or restrictions. The content is organized for easy navigation, helping learners progress any time.
 
 ### What You’ll Find Here:
 - Comprehensive tutorials with real-world examples  
-- Step-by-step guidance for frontend and backend technologies  
+- Mainly the tutorials are of computer releated fields.   
 - Resources to build practical skills through hands-on projects  
 - Mobile-friendly and easy to access from anywhere  
 
 ## Live Demo
-NOTE:- It will take upto 50 seconds to load.
+NOTE:- It may take upto 50 seconds to load.
 👉 [Visit the Live Site](https://knowledgem.onrender.com/)
 
 ## Developer
