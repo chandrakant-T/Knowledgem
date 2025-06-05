@@ -46,8 +46,33 @@ NOTE:- It may take upto 50 seconds to load.
 
 ## Developer
 
-Coming soon...
+  ## 👨‍💻 Developer Setup (Run Locally)
 
+```bash
+# 1. Clone the repository
+git clone https://github.com/chandrakant-T/Knowledgem.git
+cd Knowledgem
+
+To install Nodejs :-
+  For windows and mac-
+  download nodejs from google chrome
+
+For Linux -
+  sudo apt update
+  sudo apt install nodejs npm
+
+# 2. Install dependencies
+npm install
+npm install express socket.io mongoose jsonwebtoken bcrypt
+
+# 3. Create a `.env` file in the root directory with your own values
+echo "PORT=5000
+MONGODB_URI=your_mongodb_connection_string
+JWT_SECRET=your_secret_key" > .env
+
+# 4. Start the server
+npm start 
+```
 ## Contact
 
 If you want to get in touch, collaborate, or suggest improvements, feel free to contact me:  
