@@ -10,7 +10,35 @@ Knowledgem aims to bridge the gap in accessible education by offering carefully 
 - Comprehensive tutorials with real-world examples  
 - Mainly the tutorials are of computer releated fields.   
 - Resources to build practical skills through hands-on projects  
-- Mobile-friendly and easy to access from anywhere  
+- Mobile-friendly and easy to access from anywhere
+
+## 🛠️ Technology Stack
+
+The following technologies will be employed for this project:
+
+  ### Frontend:
+- **HTML** – for structuring web pages
+- **CSS** – for styling and layout
+- **JavaScript** – for adding interactivity and dynamic behavior
+
+  ### Backend:
+- **Node.js** – JavaScript runtime for building server-side applications
+- **Express** – minimal and flexible Node.js web application framework
+- **Socket.io** – enables real-time, bidirectional communication between client and server
+
+  ### Database:
+- **MongoDB** – NoSQL database used for storing course content, user data, and other dynamic information
+
+  ### Server:
+- **Nginx** – used as a web server and reverse proxy for handling requests efficiently
+
+  ### Other Tools:
+- **Git** – version control system for tracking changes and collaboration
+- **JWT (JSON Web Tokens)** – for secure user authentication and authorization
+- **bcrypt** – for hashing passwords and enhancing security
+  ### Deployement
+-**Render** - The project is deployed using render platform.
+
 
 ## Live Demo
 NOTE:- It may take upto 50 seconds to load.
