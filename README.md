@@ -14,7 +14,7 @@ OpenCourseWare aims to bridge the gap in accessible education by offering carefu
 
 ## Live Demo
 NOTE:- It will take upto 50 seconds to load.
-👉 [Visit the Live Site]([https://knowledgem.onrender.com/])
+👉 [Visit the Live Site](https://knowledgem.onrender.com/)
 
 ## Developer
 
