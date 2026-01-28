@@ -91,30 +91,66 @@ router.post("/forgot-password", async (req, res) => {
   const { email } = req.body;
 
   try {
+    // 1. Find User
     const user = await User.findOne({ email: email.toLowerCase() });
     if (!user) return res.status(404).json({ message: "User not found" });
 
+    // 2. Generate Token
     const resetToken = jwt.sign({ id: user._id }, process.env.JWT_SECRET, {
       expiresIn: "15m",
     });
 
+    // 3. Setup Email
     const resetLink = `https://knowledgem.onrender.com/reset-password?token=${resetToken}`;
     const mailOptions = {
       from: process.env.EMAIL,
       to: email,
-      subject: "Password Reset Link",
-      html: `<p>Click <a href="${resetLink}">here</a> to reset your password.</p>`,
+      subject: "Password Reset Link - KnowledgeM",
+      html: `
+        <h3>Reset Your Password</h3>
+        <p>You requested a password reset for your KnowledgeM account.</p>
+        <p>Click <a href="${resetLink}">here</a> to reset your password. This link expires in 15 minutes.</p>
+      `,
     };
-    transporter.sendMail(mailOptions, (error, info) => {
-      if (error) {
-        return res.status(500).json({ message: "Failed to send email" });
-      }
-      return res.json({ message: "Reset link sent to email!" });
-    });
+
+    // 4. Send Email using Await (Modern approach)
+    await transporter.sendMail(mailOptions);
+    
+    return res.json({ message: "Reset link sent to email!" });
+
   } catch (err) {
-    res.status(500).json({ message: "Server error" });
+    console.error("Forgot Password Error:", err); // Very important for Render logs!
+    res.status(500).json({ message: "Server error occurred. Please try again." });
   }
 });
+// router.post("/forgot-password", async (req, res) => {
+//   const { email } = req.body;
+
+//   try {
+//     const user = await User.findOne({ email: email.toLowerCase() });
+//     if (!user) return res.status(404).json({ message: "User not found" });
+
+//     const resetToken = jwt.sign({ id: user._id }, process.env.JWT_SECRET, {
+//       expiresIn: "15m",
+//     });
+
+//     const resetLink = `https://knowledgem.onrender.com/reset-password?token=${resetToken}`;
+//     const mailOptions = {
+//       from: process.env.EMAIL,
+//       to: email,
+//       subject: "Password Reset Link",
+//       html: `<p>Click <a href="${resetLink}">here</a> to reset your password.</p>`,
+//     };
+//     transporter.sendMail(mailOptions, (error, info) => {
+//       if (error) {
+//         return res.status(500).json({ message: "Failed to send email" });
+//       }
+//       return res.json({ message: "Reset link sent to email!" });
+//     });
+//   } catch (err) {
+//     res.status(500).json({ message: "Server error" });
+//   }
+// });
 
 //  /api/auth/reset-password/:token
 router.post("/reset-password/:token", async (req, res) => {
