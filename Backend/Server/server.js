@@ -14,7 +14,7 @@ app.use(express.json());
 const cors = require("cors");
 app.use(
   cors({
-    origin: "https://knowledgem.onrender.com",
+    origin: ["https://knowledgem.onrender.com", "http://localhost:3000"], // Allow local testing too
     methods: ["GET", "POST"],
     credentials: true,
   })
