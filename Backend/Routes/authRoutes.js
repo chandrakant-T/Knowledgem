@@ -46,7 +46,7 @@ router.post("/register", async (req, res) => {
 // Login
 router.post("/login", async (req, res) => {
   try {
-    const { email, password, name } = req.body;
+    const { email, password} = req.body;
     // handle missing fields
     if (!email || !password) {
       return res
@@ -79,7 +79,7 @@ router.post("/login", async (req, res) => {
     });
     res.json({
       token,
-      user: { email: user.email, password: user.password, name: user.name },
+      user: { email: user.email, password: user.password },
     });
   } catch (error) {
     res.status(500).json({ message: "Server error", error: error.message });
@@ -95,12 +95,10 @@ router.post("/forgot-password", async (req, res) => {
     const user = await User.findOne({ email: email.toLowerCase() });
 
     if (!user) return res.status(404).json({ message: "User not found" });
-    console.log("user found")
     // 2. Generate Token
     const resetToken = jwt.sign({ id: user._id }, process.env.JWT_SECRET, {
       expiresIn: "15m",
     });
-
     // 3. Setup Email
     const resetLink = `https://knowledgem.onrender.com/reset-password?token=${resetToken}`;
     const mailOptions = {
@@ -124,34 +122,7 @@ router.post("/forgot-password", async (req, res) => {
     res.status(500).json({ message: "Server error occurred. Please try again." });
   }
 });
-// router.post("/forgot-password", async (req, res) => {
-//   const { email } = req.body;
 
-//   try {
-//     const user = await User.findOne({ email: email.toLowerCase() });
-//     if (!user) return res.status(404).json({ message: "User not found" });
-
-//     const resetToken = jwt.sign({ id: user._id }, process.env.JWT_SECRET, {
-//       expiresIn: "15m",
-//     });
-
-//     const resetLink = `https://knowledgem.onrender.com/reset-password?token=${resetToken}`;
-//     const mailOptions = {
-//       from: process.env.EMAIL,
-//       to: email,
-//       subject: "Password Reset Link",
-//       html: `<p>Click <a href="${resetLink}">here</a> to reset your password.</p>`,
-//     };
-//     transporter.sendMail(mailOptions, (error, info) => {
-//       if (error) {
-//         return res.status(500).json({ message: "Failed to send email" });
-//       }
-//       return res.json({ message: "Reset link sent to email!" });
-//     });
-//   } catch (err) {
-//     res.status(500).json({ message: "Server error" });
-//   }
-// });
 
 //  /api/auth/reset-password/:token
 router.post("/reset-password/:token", async (req, res) => {
