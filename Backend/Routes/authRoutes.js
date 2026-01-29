@@ -93,8 +93,9 @@ router.post("/forgot-password", async (req, res) => {
   try {
     // 1. Find User
     const user = await User.findOne({ email: email.toLowerCase() });
-    if (!user) return res.status(404).json({ message: "User not found" });
 
+    if (!user) return res.status(404).json({ message: "User not found" });
+    console.log("user found")
     // 2. Generate Token
     const resetToken = jwt.sign({ id: user._id }, process.env.JWT_SECRET, {
       expiresIn: "15m",
