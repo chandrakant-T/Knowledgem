@@ -118,7 +118,7 @@ router.post("/forgot-password", async (req, res) => {
     return res.json({ message: "Reset link sent to email!" });
 
   } catch (err) {
-    console.error("Forgot Password Error:", err); // Very important for Render logs!
+    console.error("Forgot Password Error:", err);
     res.status(500).json({ message: "Server error occurred. Please try again." });
   }
 });
